@@ -3,9 +3,9 @@
 // @namespace     http://userscripts.org/scripts/show/186454
 // @author        Bit Torrentse
 // @description   To Activate The Premium Accounts
-// @updateURL     http://userscripts.org:8080/scripts/source/186454.meta.js
-// @installURL    http://userscripts.org:8080/scripts/source/186454.user.js
-// @downloadURL   http://userscripts.org:8080/scripts/source/186454.user.js
+// @updateURL     https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
+// @installURL    https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
+// @downloadURL   https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
 // @run-at        document-end
 // @include       *0zz0.*/*
 // @include       *1000shared.*/*
@@ -448,6 +448,17 @@
 // @version       11.3
 // @copyright     Bit Torrentse
 // ==/UserScript==
+/*
+ Mirrors
+Github:
+https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
+Userscripts:
+http://userscripts.org:8080/scripts/show/186454
+Greasyfork:
+https://greasyfork.org/scripts/750-javascript-premium-accounts-v2
+Openuserjs:
+https://openuserjs.org/scripts/bittorrentse/httpuserscripts.orgscriptsshow186454/JavaScript_Premium_Accounts_v2
+*/
 javascript = hf = location.hostname;
 if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 	coo = "sidc";
