@@ -399,7 +399,7 @@ http://userscripts.org/topics/195403
 <a href="http://dotsemper.com/">
 <img src="http://dotsemper.com/images/logo.png"></a>
 <h3><a href="http://downitfaster.com/">
-<img src="http://downitfaster.com/images/logoOChristmas.png"></a></br>
+<img src="http://downitfaster.com/images/logoOChristmas.png"></a><br>
 <a href="http://www.downloadani.me/">http://www.downloadani.me/</a></h3>
 <a href="http://downloadpremium.net/">
 <img src="http://downloadpremium.net/images/logo.png"></a><br>
