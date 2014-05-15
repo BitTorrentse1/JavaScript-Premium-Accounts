@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name          JavaScript Premium Accounts form www.github.com
-// @namespace     https://github.com/BitTorrentse1
+// @namespace     https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
+// @homepage      https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
 // @author        Bit Torrentse
 // @description   To Activate The Premium Accounts
 // @updateURL     https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
