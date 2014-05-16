@@ -1,5 +1,3 @@
-JavaScript-Premium-Accounts
-===========================
 <center>
 
 <h3></h3>
@@ -407,7 +405,7 @@ http://userscripts.org/topics/195403
 <img src="http://duckload.co/images/logo.gif"></a><br>
 <a href="http://www.easybytez.com/">
 <img src="http://support.easybytez.com/images/logo.gif"></a>
-<h3><a href="http://www.edisk.cz/">www.edisk.cz</a></br>
+<h3><a href="http://www.edisk.cz/">www.edisk.cz</a><br>
 <a href="http://epicshare.net/">
 <img src="http://epicshare.net/img/logo.png"></a></h3>
 <a href="http://www.ex.ua/">
@@ -567,6 +565,8 @@ http://userscripts.org/topics/195403
 <img src="http://goldbytez.com/images/logo.png"></a>
 <h3><a href="http://www.gorillavid.in/">
 <img src="http://images.gorillavid.in/images1/GorillaVid-logo.png"></a></h3>
+<a href="http://www.grshare.com/">
+<img src="http://www.grshare.com/Theme1/logo.png"></a><br>
 <a href="http://www.guizmodl.net/">
 <img src="http://www.guizmodl.net/images/logo.png"></a><br>
 <a href="http://www.gulfup.com/">
@@ -646,7 +646,7 @@ http://userscripts.org/topics/195403
 <a href="http://www.linkrapido.net/">http://www.linkrapido.net/</a><br>
 <a href="http://www.linksnappy.com/">
 <img src="http://www.linksnappy.com/templates/v2/images/logo-white.png"></a><br>
-<a href="http://lomafile.com/">
+<a href="http://lomafile.com/?op=login">
 <img src="http://lomafile.com/images_megablue/logo_new.png"></a><br>
 <a href="http://longfiles.com/?op=login">
 <img src="http://longfiles.com/images/logo.png"></a><br>
@@ -660,8 +660,6 @@ http://userscripts.org/topics/195403
 <img src="http://manyfy.com/assets/img/logo100.png"></a><br>
 <a href="http://www.maskfile.com/">
 <img src="http://www.maskfile.com/images_classic/logo.png"></a><br>
-<a href="http://www.mastcheck.com/">
-<img src="http://www.mastcheck.com/styles/default/images/logo.png"></a><br>
 <a href="http://www.med1fire.net/">
 <img src="http://med1fire.net/images/logo.png"></a><br>
 <a href="http://mediafire.bz/?op=login">
@@ -880,8 +878,6 @@ http://userscripts.org/topics/195403
 <img src="http://speedy-share.com/logo.gif"></a>
 <h3><a href="http://www.spicyfile.com/">
 <img src="http://spicyfile.com/images/logo.png"></a></h3>
-<a href="http://www.stahovadlo.cz/">
-<img src="http://www.stahovadlo.cz/img/sms-shareshop-cz.png"></a><br>
 <a href="http://www.stahovaniezasms.sk/">
 <img src="http://www.stahovaniezasms.sk/logo_text_sk.jpg"></a><br>
 <a href="http://www.stahovanizasms.cz/">
@@ -1091,7 +1087,7 @@ http://userscripts.org/topics/195403
 <img src="http://www.zbigz.com/img/logo.png"></a>
 <h3><a href="http://zevera.com">
 <img src="http://zevera.com/App_Themes/RedWine/Demo/Logotype2.png"></a></h3>
-<a href="https://www.ziddu.com/">
+<a href="https://www.ziddu.com/index.php">
 <img src="http://www.ziddu.com/images/ziddu_logo.png"></a><br>
 <a href="http://zinwa.com/">
 <img src="http://www.zinwa.com/images/logo.png"></a><br>
