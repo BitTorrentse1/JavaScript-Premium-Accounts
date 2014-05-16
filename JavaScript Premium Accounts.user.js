@@ -165,6 +165,7 @@
 // @include       *go4up.*/*
 // @include       *goldbytez.*/*
 // @include       *gorillavid.*/*
+// @include       *grshare.*/*
 // @include       *guizmodl.*/*
 // @include       *gulfup.*/*
 // @include       *hdplayer.*/*
@@ -212,7 +213,6 @@
 // @include       *mafiastorage.*/*
 // @include       *manyfy.*/*
 // @include       *maskfile.*/*
-// @include       *mastcheck.*/*
 // @include       *med1fire.*/*
 // @include       *mediafire.*/*
 // @include       *medlafire.*/*
@@ -332,7 +332,6 @@
 // @include       *speedy.*/*
 // @include       *speedyshare.*/*
 // @include       *spicyfile.*/*
-// @include       *stahovadlo.*/*
 // @include       *stahovaniezasms.*/*
 // @include       *stahovanizasms.*/*
 // @include       *stiahni.*/*
@@ -446,10 +445,11 @@
 // @include       *zomgupload.*/*
 // @include       *zshares.*/*
 // @icon          http://www.zevera.com/Images/Main.png
-// @version       11.3
+// @version       11.4
 // @copyright     Bit Torrentse
 // ==/UserScript==
-/*
+
+/*=====================================================
  Mirrors
 Github:
 https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
@@ -459,7 +459,8 @@ Greasyfork:
 https://greasyfork.org/scripts/750-javascript-premium-accounts-v2
 Openuserjs:
 https://openuserjs.org/scripts/bittorrentse/httpuserscripts.orgscriptsshow186454/JavaScript_Premium_Accounts_v2
-*/
+======================================================*/
+
 javascript = hf = location.hostname;
 if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 	coo = "sidc";
@@ -941,6 +942,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "gorillavid.in" || hf == "www.gorillavid.in") {
 	coo = "xfss";
 	dom = ".gorillavid.in";
+} else if (hf == "grshare.com" || hf == "www.grshare.com") {
+	coo = "xfss";
+	dom = ".grshare.com";
 } else if (hf == "guizmodl.net" || hf == "www.guizmodl.net") {
 	coo = "xfss";
 	dom = ".guizmodl.net";
@@ -1097,9 +1101,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "maskfile.com" || hf == "www.maskfile.com") {
 	coo = "xfss";
 	dom = ".maskfile.com";
-} else if (hf == "mastcheck.com" || hf == "www.mastcheck.com") {
-	coo = "klj_1sfk3_ulogu";
-	dom = ".mastcheck.com";
 } else if (hf == "med1fire.net" || hf == "www.med1fire.net") {
 	coo = "xfss";
 	dom = ".med1fire.net";
@@ -1469,9 +1470,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "spicyfile.com" || hf == "www.spicyfile.com") {
 	coo = "xfss";
 	dom = ".spicyfile.com";
-} else if (hf == "stahovadlo.cz" || hf == "www.stahovadlo.cz") {
-	coo = "PHPSESSID";
-	dom = ".stahovadlo.cz";
 } else if (hf == "stahovaniezasms.sk" || hf == "www.stahovaniezasms.sk") {
 	coo = "SZSMS";
 	dom = ".stahovaniezasms.sk";
