@@ -9,7 +9,6 @@
 // @downloadURL   https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
 // @run-at        document-end
 // @include       *0zz0.*/*
-// @include       *1000shared.*/*
 // @include       *180upload.*/*
 // @include       *1fichier.*/*
 // @include       *1st-files.*/*
@@ -96,6 +95,7 @@
 // @include       *fastupload.*/*
 // @include       *fboom.*/*
 // @include       *ffdownloader.*/*
+// @include       *fiberupload.*/*
 // @include       *file-upload.*/*
 // @include       *file.up09.*/*
 // @include       *file4go.*/*
@@ -129,7 +129,6 @@
 // @include       *filesabc.*/*
 // @include       *filesbomb.*/*
 // @include       *fileserving.*/*
-// @include       *filesfrog.*/*
 // @include       *fileshareup.*/*
 // @include       *filesin.*/*
 // @include       *filesswap.*/*
@@ -202,7 +201,6 @@
 // @include       *koofile.*/*
 // @include       *lafile.*/*
 // @include       *lafiles.*/*
-// @include       *lemuploads.*/*
 // @include       *limefile.*/*
 // @include       *linkrapido.*/*
 // @include       *linksnappy.*/*
@@ -213,6 +211,7 @@
 // @include       *mafiastorage.*/*
 // @include       *manyfy.*/*
 // @include       *maskfile.*/*
+// @include       *mastcheck.*/*
 // @include       *med1fire.*/*
 // @include       *mediafire.*/*
 // @include       *medlafire.*/*
@@ -256,7 +255,6 @@
 // @include       *oboom.*/*
 // @include       *opendrive.*/*
 // @include       *openfile.*/*
-// @include       *orangefiles.*/*
 // @include       *origin.*/*
 // @include       *pandamemo.*/*
 // @include       *partage-facile.*/*
@@ -265,7 +263,6 @@
 // @include       *plunder.*/*
 // @include       *postimage.*/*
 // @include       *potload.*/*
-// @include       *prefiles.*/*
 // @include       *premium.*/*
 // @include       *primeshare.*/*
 // @include       *project-free-upload.*/*
@@ -332,6 +329,7 @@
 // @include       *speedy.*/*
 // @include       *speedyshare.*/*
 // @include       *spicyfile.*/*
+// @include       *stahovadlo.*/*
 // @include       *stahovaniezasms.*/*
 // @include       *stahovanizasms.*/*
 // @include       *stiahni.*/*
@@ -386,7 +384,6 @@
 // @include       *uploadc.*/*
 // @include       *uploaded.*/*
 // @include       *uploadhero.*/*
-// @include       *uploadinc.*/*
 // @include       *uploading.*/*
 // @include       *uploadingit.*/*
 // @include       *uploadlux.*/*
@@ -445,7 +442,7 @@
 // @include       *zomgupload.*/*
 // @include       *zshares.*/*
 // @icon          http://www.zevera.com/Images/Main.png
-// @version       11.4
+// @version       11.5
 // @copyright     Bit Torrentse
 // ==/UserScript==
 
@@ -465,9 +462,6 @@ javascript = hf = location.hostname;
 if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 	coo = "sidc";
 	dom = ".0zz0.com";
-} else if (hf == "1000shared.com" || hf == "www.1000shared.com") {
-	coo = "xfss";
-	dom = ".1000shared.com";
 } else if (hf == "180upload.com" || hf == "www.180upload.com") {
 	coo = "xfss";
 	dom = ".180upload.com";
@@ -732,6 +726,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "ffdownloader.com" || hf == "www.ffdownloader.com") {
 	coo = "PHPSESSID";
 	dom = ".ffdownloader.com";
+} else if (hf == "fiberupload.net" || hf == "www.fiberupload.net") {
+	coo = "xfss";
+	dom = ".fiberupload.net";
 } else if (hf == "file-upload.net" || hf == "www.file-upload.net") {
 	coo = "PHPSESSID";
 	dom = ".file-upload.net";
@@ -834,9 +831,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "fileserving.com" || hf == "www.fileserving.com") {
 	coo = "xfss";
 	dom = ".fileserving.com";
-} else if (hf == "filesfrog.net" || hf == "www.filesfrog.net") {
-	coo = "xfss";
-	dom = ".filesfrog.net";
 } else if (hf == "fileshareup.com" || hf == "www.fileshareup.com") {
 	coo = "filehosting";
 	dom = ".fileshareup.com";
@@ -1068,9 +1062,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "lafiles.com" || hf == "www.lafiles.com") {
 	coo = "xfss";
 	dom = ".lafiles.com";
-} else if (hf == "lemuploads.com" || hf == "www.lemuploads.com") {
-	coo = "xfss";
-	dom = ".lemuploads.com";
 } else if (hf == "limefile.com" || hf == "www.limefile.com") {
 	coo = "xfss";
 	dom = ".limefile.com";
@@ -1101,6 +1092,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "maskfile.com" || hf == "www.maskfile.com") {
 	coo = "xfss";
 	dom = ".maskfile.com";
+} else if (hf == "mastcheck.com" || hf == "www.mastcheck.com") {
+	coo = "klj_1sfk3_ulogu";
+	dom = ".mastcheck.com";
 } else if (hf == "med1fire.net" || hf == "www.med1fire.net") {
 	coo = "xfss";
 	dom = ".med1fire.net";
@@ -1230,9 +1224,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "openfile.ru" || hf == "www.openfile.ru") {
 	coo = "PHPSESSID";
 	dom = ".openfile.ru";
-} else if (hf == "orangefiles.me" || hf == "www.orangefiles.me") {
-	coo = "xfss";
-	dom = ".orangefiles.me";
 } else if (hf == "origin.com" || hf == "www.origin.com") {
 	coo = "JSESSIONID";
 	dom = ".origin.com";
@@ -1257,9 +1248,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "potload.com" || hf == "www.potload.com") {
 	coo = "xfss";
 	dom = ".potload.com";
-} else if (hf == "prefiles.com" || hf == "www.prefiles.com") {
-	coo = "xfss";
-	dom = ".prefiles.com";
 } else if (hf == "premium.to" || hf == "www.premium.to") {
 	coo = "auth";
 	dom = ".premium.to";
@@ -1470,6 +1458,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "spicyfile.com" || hf == "www.spicyfile.com") {
 	coo = "xfss";
 	dom = ".spicyfile.com";
+} else if (hf == "stahovadlo.cz" || hf == "www.stahovadlo.cz") {
+	coo = "PHPSESSID";
+	dom = ".stahovadlo.cz";
 } else if (hf == "stahovaniezasms.sk" || hf == "www.stahovaniezasms.sk") {
 	coo = "SZSMS";
 	dom = ".stahovaniezasms.sk";
@@ -1611,6 +1602,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "upfile.mobi" || hf == "www.upfile.mobi") {
 	coo = "PHPSESSID";
 	dom = ".upfile.mobi";
+} else if (hf == "upfile.vn" || hf == "www.upfile.vn") {
+	coo = "spf";
+	dom = ".upfile.vn";
 } else if (hf == "upload.ee" || hf == "www.upload.ee") {
 	coo = "upload_sess";
 	dom = ".upload.ee";
@@ -1638,9 +1632,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "uploadhero.co" || hf == "www.uploadhero.co") {
 	coo = "uh";
 	dom = ".uploadhero.co";
-} else if (hf == "uploadinc.com" || hf == "www.uploadinc.com") {
-	coo = "xfss";
-	dom = ".uploadinc.com";
 } else if (hf == "uploading.com" || hf == "www.uploading.com") {
 	coo = "remembered_user";
 	dom = ".uploading.com";
