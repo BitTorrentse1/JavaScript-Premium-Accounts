@@ -1,8 +1,12 @@
 <h3>Checking Remove</h3>
-May 16, 2014<br>
+May 23, 2014<br>
 ===========<br>
-www.mastcheck.com<br>
-www.stahovadlo.cz<br>
+www.1000shared.com
+www.filesfrog.net
+www.lemuploads.com
+www.orangefiles.me
+www.prefiles.com
+www.uploadinc.com
 www.1clickfiles.com<br>
 www.4savefile.com<br>
 www.albafile.com<br>
@@ -17,7 +21,6 @@ www.download.me<br>
 www.dupload.org<br>
 www.embedload.com<br>
 www.extabit.com<br>
-www.fiberupload.net<br>
 www.filebigz.com<br>
 www.filechin.com<br>
 www.filecity.net<br>
@@ -51,7 +54,6 @@ www.storagon.com<br>
 www.swatupload.com<br>
 www.temp-share.com<br>
 www.upfile.biz<br>
-www.upfile.vn<br>
 www.uploads.ws<br>
 www.videoslasher.com<br>
 www.wooupload.com<br>
