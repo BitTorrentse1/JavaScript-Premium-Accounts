@@ -1,4 +1,20 @@
 <h3>Changelog</h3>
+May 23, 2014
+============<br>
+Add<br>
+www.fiberupload.net<br>
+www.mastcheck.com<br>
+www.stahovadlo.cz<br>
+www.upfile.vn<br>
+<br>
+Remove<br>
+www.1000shared.com<br>
+www.filesfrog.net<br>
+www.lemuploads.com<br>
+www.orangefiles.me<br>
+www.prefiles.com<br>
+www.uploadinc.com<br>
+<br>
 May 16, 2014<br>
 ============<br>
 Add<br>
