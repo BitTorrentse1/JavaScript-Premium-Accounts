@@ -1,7 +1,6 @@
 <h3>Checking Remove</h3>
 ===========<br>
-May 23, 2014<br>
-www.1000shared.com<br>
+May 30, 2014<br>
 www.1clickfiles.com<br>
 www.4savefile.com<br>
 www.albafile.com<br>
@@ -11,6 +10,7 @@ www.berofile.com<br>
 www.cloudvidz.net<br>
 www.cloudzer.net<br>
 www.daj.to<br>
+www.davvas.com<br>
 www.donevideo.com<br>
 www.download.me<br>
 www.dupload.org<br>
@@ -22,14 +22,13 @@ www.filecity.net<br>
 www.filehaste.com<br>
 www.fileomg.com<br>
 www.files2upload.net<br>
-www.filesfrog.net<br>
 www.filesline.com<br>
 www.foxishare.com<br>
 www.fsakura.com<br>
 www.fujifile.me<br>
 www.gsmfilehosting.com<br>
+www.guizmodl.net<b>
 www.ifilez.co<br>
-www.imzupload.com<br>
 www.lemuploads.com<br>
 www.maxisharing.com<br>
 www.medofire.net<br>
@@ -46,9 +45,11 @@ www.share-credit.cz<br>
 www.share-rapid.com<br>
 www.share-rapid.cz<br>
 www.sharefiles.co<br>
+www.sharerapid.cz<br>
 www.shrng.com<br>
 www.sinhro.net<br>
 www.srapid.cz<br>
+www.stahovaniezasms.sk<br>
 www.storagon.com<br>
 www.swatupload.com<br>
 www.temp-share.com<br>
