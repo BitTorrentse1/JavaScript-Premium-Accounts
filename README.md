@@ -266,6 +266,8 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 
 <a href="http://www.0zz0.com/index.php">
 <img src="http://www.0zz0.com/images2/0zz0.gif"></a><br>
+<a href="http://www.1000shared.com/">
+<img src="http://i.imgur.com/8EtXW.png"></a><br>
 <a href="http://www.180upload.com/">
 <img src="http://180upload.com/images/logo.gif"></a><br>
 <a href="http://www.180upload.nl/">
@@ -370,8 +372,6 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 <img src="http://www.datafile.com/images/dflogo_en.png"></a><br>
 <a href="http://datei.to/">
 <img src="http://datei.to/img/logo_headline.png"></a><br>
-<a href="http://www.davvas.com/">
-<img src="http://davvas.com/images/logo.png"></a><br>
 <a href="http://www.ddlstorage.com/">
 <img src="http://www.ddlstorage.com/templates/default/images/logo.png"></a><br>
 <a href="http://debrid-link.fr/">http://debrid-link.fr/</a></h3>
@@ -466,7 +466,7 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 <img src="http://filemoney.com/images/logo.png"></a>
 <h3><a href="https://www.filemonkey.in">
 <img src="https://www.filemonkey.in/img/logo.png"></a></h3>
-<a href="http://www.filenuke.com/">
+<a href="http://filenuke.com/">
 <img src="http://filenuke.com/images1/filenuke-logo2.png"></a><br>
 <a href="http://www.filenuke.net/">
 <img src="http://www.filenuke.net/images1/filenuke-logo2.png"></a><br>
@@ -493,7 +493,10 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 <img src="http://filesabc.com/images/logo.png"></a></h3>
 <a href="http://www.filesbomb.in/">
 <img src="http://www.filesbomb.in/images/filesbomblogo.png"></a><br>
-<a href="http://www.fileserving.com/"><img src="http://www.fileserving.com/images/f_logo.png"></a><br>
+<a href="http://www.fileserving.com/">
+<img src="http://www.fileserving.com/images/f_logo.png"></a><br>
+<a href="http://www.filesfrog.net/?op=login">
+<img src="http://www.filesfrog.net/images/logo.png"></a><br>
 <a href="http://www.fileshareup.com/">
 <img src="http://www.fileshareup.com/themes/blue_v2/images/main_logo.jpg"></a>
 <h3><a href="http://www.filesin.com/">
@@ -564,8 +567,6 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 <img src="http://images.gorillavid.in/images1/GorillaVid-logo.png"></a></h3>
 <a href="http://www.grshare.com/">
 <img src="http://www.grshare.com/Theme1/logo.png"></a><br>
-<a href="http://www.guizmodl.net/">
-<img src="http://www.guizmodl.net/images/logo.png"></a><br>
 <a href="http://www.gulfup.com/">
 <img src="http://www.gulfup.com/styles/gulfup2/images/logo.png"></a><br>
 <a href="http://gulfup.us/?op=login">
@@ -604,6 +605,8 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 <img src="http://idup.in/images/logo.png"></a><br>
 <a href="https://imageshack.com/">
 <img src="https://imageshack.com/v2_images/auth/logo.png"></a><br>
+<a href="http://www.imzupload.com/">
+<img src="http://www.imzupload.com/images/logo.png"></a><br>
 <a href="http://inafile.com/">
 <img src="http://inafile.com/images/logo.png"></a>
 <h3><a href="http://www.isavelink.com/?op=login">
@@ -737,8 +740,6 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 <a href="http://openfile.ru/">http://openfile.ru</a><br>
 <a href="https://www.origin.com/en-ie/store/">
 <img src="https://www.origin.com/damassets/content/dam/OriginAsset/header-logo.png"></a></h3>
-<a href="http://www.pandamemo.com/">
-<img src="http://www.pandamemo.com/images/logo.png"></a><br>
 <a href="http://www.partage-facile.com/">
 <img src="http://www.partage-facile.com/css/img/pf/logo.jpg"></a>
 <h3><a href="https://www.pcloud.com">
@@ -876,8 +877,6 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 <img src="http://spicyfile.com/images/logo.png"></a></h3>
 <a href="http://www.stahovadlo.cz/">
 <img src="http://www.stahovadlo.cz/img/sms-shareshop-cz.png"></a><br>
-<a href="http://www.stahovaniezasms.sk/">
-<img src="http://www.stahovaniezasms.sk/logo_text_sk.jpg"></a><br>
 <a href="http://www.stahovanizasms.cz/">
 <img src="http://www.stahovanizasms.cz/logo_text_cz.jpg"></a>
 <h3><a href="http://stiahni.si/en/">
@@ -915,8 +914,8 @@ https://github.com/BitTorrentse1/JavaScript-Premium-Accounts/blob/master/Changel
 <img src="https://www.transferbigfiles.com/content/img/tbf-logo-large.png"></a><br>
 <a href="http://tropicshare.com/">
 <img src="http://tropicshare.com/images/logo.png"></a><br>
-<a href="http://treesfile.com/">
-<img src="http://treesfile.com/images/eyesfile.com.jpg"></a><br>
+<a href="http://www.treesfiles.com/">
+<img src="http://www.treesfiles.com/images/eyesfile.com.jpg"></a><br>
 <a href="http://www.tufiles.ru/">
 <img src="http://www.tufiles.ru/files/domains/4EC7B6F7E49406776BAFCECDE0F30712/6394/tufiles.png"></a><br>
 <a href="http://turbobit.net/">
