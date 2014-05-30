@@ -1,4 +1,19 @@
 <h3>Changelog</h3>
+May 30, 2014<br>
+============<br>
+Add<br>
+www.1000shared.com<br>
+www.filesfrog.net<br>
+www.imzupload.com<br>
+www.megarapid.cz<br>
+www.treesfiles.com<br>
+<br>
+Remove<br>
+www.davvas.com<br>
+www.guizmodl.net<br>
+www.sharerapid.cz<br>
+www.stahovaniezasms.sk<br>
+<br>
 May 23, 2014<br>
 ============<br>
 Add<br>
