@@ -3,12 +3,15 @@
 // @namespace     https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
 // @homepage      https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
 // @author        Bit Torrentse
+// @license       Bit Torrentse , http://www.absba.org
 // @description   To Activate The Premium Accounts
-// @updateURL     https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
-// @installURL    https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
+// @details	  To Activate The Premium Accounts
+// @supportURL    http://www.absba.org/showthread.php?t=1335704
+// @updateURL     https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.meta.js
 // @downloadURL   https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
 // @run-at        document-end
 // @include       *0zz0.*/*
+// @include       *1000shared.*/*
 // @include       *180upload.*/*
 // @include       *1fichier.*/*
 // @include       *1st-files.*/*
@@ -62,7 +65,6 @@
 // @include       *data.*/*
 // @include       *datafile.*/*
 // @include       *datei.*/*
-// @include       *davvas.*/*
 // @include       *ddlstorage.*/*
 // @include       *debrid-link.*/*
 // @include       *deerfile.*/*
@@ -129,6 +131,7 @@
 // @include       *filesabc.*/*
 // @include       *filesbomb.*/*
 // @include       *fileserving.*/*
+// @include       *filesfrog.*/*
 // @include       *fileshareup.*/*
 // @include       *filesin.*/*
 // @include       *filesswap.*/*
@@ -165,7 +168,6 @@
 // @include       *goldbytez.*/*
 // @include       *gorillavid.*/*
 // @include       *grshare.*/*
-// @include       *guizmodl.*/*
 // @include       *gulfup.*/*
 // @include       *hdplayer.*/*
 // @include       *hellfile.*/*
@@ -185,6 +187,7 @@
 // @include       *hyperfileshare.*/*
 // @include       *idup.*/*
 // @include       *imageshack.*/*
+// @include       *imzupload.*/*
 // @include       *inafile.*/*
 // @include       *isavelink.*/*
 // @include       *ishareupload.*/*
@@ -219,6 +222,7 @@
 // @include       *megacache.*/*
 // @include       *megafiles.*/*
 // @include       *megairon.*/*
+// @include       *megarapid.*/*
 // @include       *megarapido.*/*
 // @include       *megashares.*/*
 // @include       *megauplaod.*/*
@@ -256,7 +260,6 @@
 // @include       *opendrive.*/*
 // @include       *openfile.*/*
 // @include       *origin.*/*
-// @include       *pandamemo.*/*
 // @include       *partage-facile.*/*
 // @include       *pcloud.*/*
 // @include       *played.*/*
@@ -312,7 +315,6 @@
 // @include       *sharecash.*/*
 // @include       *sharedir.*/*
 // @include       *shareprofi.*/*
-// @include       *sharerapid.*/*
 // @include       *sharerepo.*/*
 // @include       *sharesix.*/*
 // @include       *sharexvid.*/*
@@ -330,7 +332,6 @@
 // @include       *speedyshare.*/*
 // @include       *spicyfile.*/*
 // @include       *stahovadlo.*/*
-// @include       *stahovaniezasms.*/*
 // @include       *stahovanizasms.*/*
 // @include       *stiahni.*/*
 // @include       *streamcloud.*/*
@@ -348,7 +349,7 @@
 // @include       *torpedo.*/*
 // @include       *torrenting.*/*
 // @include       *transferbigfiles.*/*
-// @include       *treesfile.*/*
+// @include       *treesfiles.*/*
 // @include       *tropicshare.*/*
 // @include       *tufiles.*/*
 // @include       *turbobit.*/*
@@ -442,8 +443,8 @@
 // @include       *zomgupload.*/*
 // @include       *zshares.*/*
 // @icon          http://www.zevera.com/Images/Main.png
-// @version       11.5
-// @copyright     Bit Torrentse
+// @version       11.6
+// @copyright     Bit Torrentse , www.absba.org
 // ==/UserScript==
 
 /*=====================================================
@@ -462,6 +463,9 @@ javascript = hf = location.hostname;
 if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 	coo = "sidc";
 	dom = ".0zz0.com";
+} else if (hf == "1000shared.com" || hf == "www.1000shared.com") {
+	coo = "xfss";
+	dom = ".1000shared.com";
 } else if (hf == "180upload.com" || hf == "www.180upload.com") {
 	coo = "xfss";
 	dom = ".180upload.com";
@@ -627,9 +631,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "datei.to" || hf == "www.datei.to") {
 	coo = "PHPSESSID";
 	dom = ".datei.to";
-} else if (hf == "davvas.com" || hf == "www.davvas.com") {
-	coo = "xfss";
-	dom = ".davvas.com";
 } else if (hf == "ddlstorage.com" || hf == "www.ddlstorage.com") {
 	coo = "xfss";
 	dom = ".ddlstorage.com";
@@ -831,6 +832,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "fileserving.com" || hf == "www.fileserving.com") {
 	coo = "xfss";
 	dom = ".fileserving.com";
+} else if (hf == "filesfrog.net" || hf == "www.filesfrog.net") {
+	coo = "xfss";
+	dom = ".filesfrog.net";
 } else if (hf == "fileshareup.com" || hf == "www.fileshareup.com") {
 	coo = "filehosting";
 	dom = ".fileshareup.com";
@@ -939,9 +943,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "grshare.com" || hf == "www.grshare.com") {
 	coo = "xfss";
 	dom = ".grshare.com";
-} else if (hf == "guizmodl.net" || hf == "www.guizmodl.net") {
-	coo = "xfss";
-	dom = ".guizmodl.net";
 } else if (hf == "gulfup.com" || hf == "www.gulfup.com") {
 	coo = "gulf_ups_ulogu";
 	dom = ".gulfup.com";
@@ -1011,6 +1012,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "imageshack.com" || hf == "www.imageshack.com") {
 	coo = "myimages";
 	dom = ".imageshack.com";
+} else if  (hf == "imzupload.com" || hf == "www.imzupload.com") {
+	coo = "xfss";
+	dom = ".imzupload.com";
 } else if  (hf == "inafile.com" || hf == "www.inafile.com") {
 	coo = "xfss";
 	dom = ".inafile.com";
@@ -1116,6 +1120,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "megairon.net" || hf == "www.megairon.net") {
 	coo = "xfss";
 	dom = ".megairon.net";
+} else if (hf == "megarapid.cz" || hf == "www.megarapid.cz") {
+	coo = "PHPSESSID";
+	dom = ".megarapid.cz";
 } else if (hf == "megarapido.net" || hf == "www.megarapido.net") {
 	coo = "PHPSESSID";
 	dom = ".megarapido.net";
@@ -1227,9 +1234,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "origin.com" || hf == "www.origin.com") {
 	coo = "JSESSIONID";
 	dom = ".origin.com";
-} else if (hf == "pandamemo.com" || hf == "www.pandamemo.com") {
-	coo = "xfss";
-	dom = ".pandamemo.com";
 } else if (hf == "partage-facile.com" || hf == "www.partage-facile.com") {
 	coo = "PHPSESSID";
 	dom = ".partage-facile.com";
@@ -1401,9 +1405,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "shareprofi.com" || hf == "www.shareprofi.com") {
 	coo = "xfss";
 	dom = ".shareprofi.com";
-} else if (hf == "sharerapid.cz" || hf == "www.sharerapid.cz") {
-	coo = "PHPSESSID";
-	dom = ".sharerapid.cz";
 } else if (hf == "sharerepo.com" || hf == "www.sharerepo.com") {
 	coo = "xfss";
 	dom = ".sharerepo.com";
@@ -1461,9 +1462,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "stahovadlo.cz" || hf == "www.stahovadlo.cz") {
 	coo = "PHPSESSID";
 	dom = ".stahovadlo.cz";
-} else if (hf == "stahovaniezasms.sk" || hf == "www.stahovaniezasms.sk") {
-	coo = "SZSMS";
-	dom = ".stahovaniezasms.sk";
 } else if (hf == "stahovanizasms.cz" || hf == "www.stahovanizasms.cz") {
 	coo = "SZSMS";
 	dom = ".stahovanizasms.cz";
@@ -1518,9 +1516,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "transferbigfiles.com" || hf == "www.transferbigfiles.com") {
 	coo = "tbfauth8";
 	dom = ".transferbigfiles.com";
-} else if (hf == "treesfile.com" || hf == "www.treesfile.com") {
+} else if (hf == "treesfiles.com" || hf == "www.treesfiles.com") {
 	coo = "xfss";
-	dom = ".treesfile.com";
+	dom = ".treesfiles.com";
 } else if (hf == "tropicshare.com" || hf == "www.tropicshare.com") {
 	coo = "PHPSESSID";
 	dom = ".tropicshare.com";
