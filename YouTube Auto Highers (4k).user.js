@@ -4,11 +4,13 @@
 // @details	      Make Play Video Auto Highers
 // @author        Bit Torrentse
 // @license       Bit Torrentse , http://www.absba.org
+// @namespace     https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
+// @homepage      https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
 // @supportURL    http://www.absba.org/member.php?u=37252
 // @updateURL     https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/YouTube%20Auto%20Highers%20(4k).meta.js
 // @downloadURL   https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/YouTube%20Auto%20Highers%20(4k).user.js
 // @include		  *youtube.*/*
-// @version		  1.0
+// @version		  1.1
 // @icon	      http://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_Youtube.svg
 // @run-at        document-start
 // @copyright     2014, Bit Torrentse
