@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          JavaScript Premium Accounts form www.github.com
-// @namespace     https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
-// @homepage      https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
+// @namespace     https://github.com/BitTorrentse1
+// @homepage      https://github.com/BitTorrentse1
 // @author        Bit Torrentse
 // @license       Bit Torrentse , http://www.absba.org
 // @description   To Activate The Premium Accounts
@@ -80,6 +80,7 @@
 // @include       *downitfaster.*/*
 // @include       *downloadani.*/*
 // @include       *downloadpremium.*/*
+// @include       *dropvideos.*/*
 // @include       *duckload.*/*
 // @include       *easybytez.*/*
 // @include       *edisk.*/*
@@ -108,12 +109,12 @@
 // @include       *filecloud.*/*
 // @include       *filecore.*/*
 // @include       *filedais.*/*
-// @include       *filedap.*/*
 // @include       *filedropper.*/*
 // @include       *filedwon.*/*
 // @include       *filefactory.*/*
 // @include       *fileflyer.*/*
 // @include       *fileforever.*/*
+// @include       *filehoot.*/*
 // @include       *filemade.*/*
 // @include       *filemoney.*/*
 // @include       *filemonkey.*/*
@@ -129,6 +130,7 @@
 // @include       *files.*/*
 // @include       *files123.*/*
 // @include       *filesabc.*/*
+// @include       *filesaur.*/*
 // @include       *filesbomb.*/*
 // @include       *fileserving.*/*
 // @include       *filesfrog.*/*
@@ -170,7 +172,6 @@
 // @include       *grshare.*/*
 // @include       *gulfup.*/*
 // @include       *hdplayer.*/*
-// @include       *hellfile.*/*
 // @include       *hellshare.*/*
 // @include       *hellupload.*/*
 // @include       *henchfile.*/*
@@ -182,7 +183,6 @@
 // @include       *hostingbulk.*/*
 // @include       *hostr.*/*
 // @include       *hugefiles.*/*
-// @include       *hulkfile.*/*
 // @include       *hulkload.*/*
 // @include       *hyperfileshare.*/*
 // @include       *idup.*/*
@@ -214,7 +214,6 @@
 // @include       *mafiastorage.*/*
 // @include       *manyfy.*/*
 // @include       *maskfile.*/*
-// @include       *mastcheck.*/*
 // @include       *med1fire.*/*
 // @include       *mediafire.*/*
 // @include       *medlafire.*/*
@@ -259,7 +258,9 @@
 // @include       *oboom.*/*
 // @include       *opendrive.*/*
 // @include       *openfile.*/*
+// @include       *orangefiles.*/*
 // @include       *origin.*/*
+// @include       *pandapla.*/*
 // @include       *partage-facile.*/*
 // @include       *pcloud.*/*
 // @include       *played.*/*
@@ -346,6 +347,7 @@
 // @include       *terafile.*/*
 // @include       *thefile.*/*
 // @include       *thevideo.*/*
+// @include       *toofile.*/*
 // @include       *torpedo.*/*
 // @include       *torrenting.*/*
 // @include       *transferbigfiles.*/*
@@ -374,7 +376,6 @@
 // @include       *up.badr4soft.*/*
 // @include       *up.dev-point.*/*
 // @include       *up.media1fire.*/*
-// @include       *upafile.*/*
 // @include       *upfile.*/*
 // @include       *upload.*/*
 // @include       *upload.data.*/*
@@ -409,10 +410,10 @@
 // @include       *video.*/*
 // @include       *videobam.*/*
 // @include       *videobb.*/*
+// @include       *videowood.*/*
 // @include       *vidhog.*/*
 // @include       *vidplay.*/*
 // @include       *vidspot.*/*
-// @include       *vidstream.*/*
 // @include       *vidto.*/*
 // @include       *vidxden.*/*
 // @include       *vidzbeez.*/*
@@ -421,7 +422,6 @@
 // @include       *vodlocker.*/*
 // @include       *vreer.*/*
 // @include       *vshare.*/*
-// @include       *wallobit.*/*
 // @include       *watchfreeinhd.*/*
 // @include       *webshare.*/*
 // @include       *wikisend.*/*
@@ -443,20 +443,24 @@
 // @include       *zomgupload.*/*
 // @include       *zshares.*/*
 // @icon          http://www.zevera.com/Images/Main.png
-// @version       11.6
+// @version       11.7
 // @copyright     Bit Torrentse , www.absba.org
 // ==/UserScript==
 
 /*=====================================================
  Mirrors
 Github:
-https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
-Userscripts:
-http://userscripts.org:8080/scripts/show/186454
+https://github.com/BitTorrentse1
 Greasyfork:
-https://greasyfork.org/scripts/750-javascript-premium-accounts-v2
+https://greasyfork.org/users/748-bit-torrentse
 Openuserjs:
-https://openuserjs.org/scripts/bittorrentse/httpuserscripts.orgscriptsshow186454/JavaScript_Premium_Accounts_v2
+https://openuserjs.org/users/BitTorrentse
+Where can get cookies
+http://comptespremium.chatango.com
+http://pregen.net/blog/
+http://www.coder143.com/
+http://fpaccs.com/
+http://premiumst0re.blogspot.com/
 ======================================================*/
 
 javascript = hf = location.hostname;
@@ -676,6 +680,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "downloadpremium.net" || hf == "www.downloadpremium.net") {
 	coo = "PHPSESSID";
 	dom = ".downloadpremium.net";
+} else if (hf == "dropvideos.net" || hf == "www.dropvideos.net") {
+	coo = "xfss";
+	dom = ".dropvideos.net";
 } else if (hf == "duckload.co" || hf == "www.duckload.co") {
 	coo = "xfss";
 	dom = ".duckload.co";
@@ -760,9 +767,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "filedais.com" || hf == "www.filedais.com") {
 	coo = "xfss";
 	dom = ".filedais.com";
-} else if (hf == "filedap.com" || hf == "www.filedap.com") {
-	coo = "xfss";
-	dom = ".filedap.com";
 } else if (hf == "filedropper.com" || hf == "www.filedropper.com") {
 	coo = "PHPSESSID";
 	dom = ".filedropper.com";
@@ -778,6 +782,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "fileforever.net" || hf == "www.fileforever.net") {
 	coo = "xfss";
 	dom = ".fileforever.net";
+} else if (hf == "filehoot.com" || hf == "www.filehoot.com") {
+	coo = "xfss";
+	dom = ".filehoot.com";
 } else if (hf == "filemade.com" || hf == "www.filemade.com") {
 	coo = "filehosting";
 	dom = ".filemade.com";
@@ -826,6 +833,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "filesabc.com" || hf == "www.filesabc.com") {
 	coo = "xfss";
 	dom = ".filesabc.com";
+} else if (hf == "filesaur.com" || hf == "www.filesaur.com") {
+	coo = "xfss";
+	dom = ".filesaur.com";
 } else if (hf == "filesbomb.in" || hf == "www.filesbomb.in") {
 	coo = "xfss";
 	dom = ".filesbomb.in";
@@ -952,9 +962,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "hdplayer.pl" || hf == "www.hdplayer.pl") {
 	coo = "hdplayer_session";
 	dom = ".hdplayer.pl";
-} else if (hf == "hellfile.com" || hf == "www.hellfile.com") {
-	coo = "filehosting";
-	dom = ".hellfile.com";
 } else if (hf == "hellshare.com" || hf == "www.hellshare.com") {
 	coo = "permlogin";
 	dom = ".hellshare.com";
@@ -997,9 +1004,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "hugefiles.net" || hf == "www.hugefiles.net") {
 	coo = "xfss";
 	dom = ".hugefiles.net";
-} else if (hf == "hulkfile.eu" || hf == "www.hulkfile.eu") {
-	coo = "xfss";
-	dom = ".hulkfile.eu";
 } else if (hf == "hulkload.com" || hf == "www.hulkload.com") {
 	coo = "xfss";
 	dom = ".hulkload.com";
@@ -1096,9 +1100,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "maskfile.com" || hf == "www.maskfile.com") {
 	coo = "xfss";
 	dom = ".maskfile.com";
-} else if (hf == "mastcheck.com" || hf == "www.mastcheck.com") {
-	coo = "klj_1sfk3_ulogu";
-	dom = ".mastcheck.com";
 } else if (hf == "med1fire.net" || hf == "www.med1fire.net") {
 	coo = "xfss";
 	dom = ".med1fire.net";
@@ -1231,9 +1232,15 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "openfile.ru" || hf == "www.openfile.ru") {
 	coo = "PHPSESSID";
 	dom = ".openfile.ru";
+} else if (hf == "orangefiles.me" || hf == "www.orangefiles.me") {
+ 	coo = "xfss";
+ 	dom = ".orangefiles.me";
 } else if (hf == "origin.com" || hf == "www.origin.com") {
 	coo = "JSESSIONID";
 	dom = ".origin.com";
+} else if (hf == "pandapla.net" || hf == "www.pandapla.net") {
+	coo = "xfss";
+	dom = ".pandapla.net";
 } else if (hf == "partage-facile.com" || hf == "www.partage-facile.com") {
 	coo = "PHPSESSID";
 	dom = ".partage-facile.com";
@@ -1507,6 +1514,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "thevideo.me" || hf == "www.thevideo.me") {
 	coo = "xfsts";
 	dom = ".thevideo.me";
+} else if (hf == "toofile.com" || hf == "www.toofile.com") {
+	coo = "xfss";
+	dom = ".toofile.com";
 } else if (hf == "torpedo.com.pl" || hf == "www.torpedo.com.pl") {
 	coo = "xfss";
 	dom = ".torpedo.com.pl";
@@ -1594,9 +1604,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "up.media1fire.com" || hf == "www.up.media1fire.com") {
 	coo = "xfss";
 	dom = ".up.media1fire.com";
-} else if (hf == "upafile.com" || hf == "www.upafile.com") {
-	coo = "xfss";
-	dom = ".upafile.com";
 } else if (hf == "upfile.mobi" || hf == "www.upfile.mobi") {
 	coo = "PHPSESSID";
 	dom = ".upfile.mobi";
@@ -1702,6 +1709,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "videobb.com" || hf == "www.videobb.com") {
 	coo = "P_sk";
 	dom = ".videobb.com";
+} else if (hf == "videowood.tv" || hf == "www.videowood.tv") {
+	coo = "videowood_sess";
+	dom = ".videowood.tv";
 } else if (hf == "vidhog.com" || hf == "www.vidhog.com") {
 	coo = "xfss";
 	dom = ".vidhog.com";
@@ -1711,9 +1721,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "vidspot.net" || hf == "www.vidspot.net") {
 	coo = "xfss";
 	dom = ".vidspot.net";
-} else if (hf == "vidstream.in" || hf == "www.vidstream.in") {
-	coo = "xfss";
-	dom = ".vidstream.in";
 } else if (hf == "vidto.me" || hf == "www.vidto.me") {
 	coo = "xfsts";
 	dom = ".vidto.me";
@@ -1738,9 +1745,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "vshare.eu" || hf == "www.vshare.eu") {
 	coo = "xfss";
 	dom = ".vshare.eu";
-} else if (hf == "wallobit.com" || hf == "www.wallobit.com") {
-	coo = "xfss";
-	dom = ".wallobit.com";
 } else if (hf == "watchfreeinhd.com" || hf == "www.watchfreeinhd.com") {
 	coo = "watchfreeinhd_user";
 	dom = ".watchfreeinhd.com";
