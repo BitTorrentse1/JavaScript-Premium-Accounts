@@ -1,4 +1,23 @@
 <h3>Changelog</h3>
+Jun 06, 2014<br>
+============<br>
+Add
+www.dropvideos.net<br>
+www.filehoot.com<br>
+www.filesaur.com<br>
+www.orangefiles.me<br>
+www.pandapla.net<br>
+www.toofile.com<br>
+www.videowood.tv<br>
+Remove<br>
+www.filedap.com<br>
+www.hellfile.com<br>
+www.hulkfile.eu<br>
+www.mastcheck.com<br>
+www.upafile.com<br>
+www.vidstream.in<b>
+www.wallobit.com<b>
+<br>
 May 30, 2014<br>
 ============<br>
 Add<br>
