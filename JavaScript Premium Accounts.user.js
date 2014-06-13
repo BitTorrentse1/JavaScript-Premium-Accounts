@@ -11,7 +11,6 @@
 // @downloadURL   https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
 // @run-at        document-end
 // @include       *0zz0.*/*
-// @include       *1000shared.*/*
 // @include       *180upload.*/*
 // @include       *1fichier.*/*
 // @include       *1st-files.*/*
@@ -130,13 +129,11 @@
 // @include       *files.*/*
 // @include       *files123.*/*
 // @include       *filesabc.*/*
-// @include       *filesaur.*/*
 // @include       *filesbomb.*/*
 // @include       *fileserving.*/*
 // @include       *filesfrog.*/*
 // @include       *fileshareup.*/*
 // @include       *filesin.*/*
-// @include       *filesswap.*/*
 // @include       *filestream.*/*
 // @include       *fileswap.*/*
 // @include       *filetram.*/*
@@ -214,7 +211,6 @@
 // @include       *mafiastorage.*/*
 // @include       *manyfy.*/*
 // @include       *maskfile.*/*
-// @include       *med1fire.*/*
 // @include       *mediafire.*/*
 // @include       *medlafire.*/*
 // @include       *mega-debrid.*/*
@@ -315,7 +311,6 @@
 // @include       *shareblue.*/*
 // @include       *sharecash.*/*
 // @include       *sharedir.*/*
-// @include       *shareprofi.*/*
 // @include       *sharerepo.*/*
 // @include       *sharesix.*/*
 // @include       *sharexvid.*/*
@@ -328,7 +323,6 @@
 // @include       *solidfiles.*/*
 // @include       *spaceforfiles.*/*
 // @include       *speedshare.*/*
-// @include       *speedy-share.*/*
 // @include       *speedy.*/*
 // @include       *speedyshare.*/*
 // @include       *spicyfile.*/*
@@ -376,6 +370,7 @@
 // @include       *up.badr4soft.*/*
 // @include       *up.dev-point.*/*
 // @include       *up.media1fire.*/*
+// @include       *upafile.*/*
 // @include       *upfile.*/*
 // @include       *upload.*/*
 // @include       *upload.data.*/*
@@ -393,7 +388,6 @@
 // @include       *uploadsat.*/*
 // @include       *uploadscenter.*/*
 // @include       *uploadspace.*/*
-// @include       *uppit.*/*
 // @include       *upshared.*/*
 // @include       *upstore.*/*
 // @include       *uptobox.*/*
@@ -414,13 +408,13 @@
 // @include       *vidhog.*/*
 // @include       *vidplay.*/*
 // @include       *vidspot.*/*
+// @include       *vidstream.*/*
 // @include       *vidto.*/*
 // @include       *vidxden.*/*
 // @include       *vidzbeez.*/*
 // @include       *vidzi.*/*
 // @include       *vimeo.*/*
 // @include       *vodlocker.*/*
-// @include       *vreer.*/*
 // @include       *vshare.*/*
 // @include       *watchfreeinhd.*/*
 // @include       *webshare.*/*
@@ -443,7 +437,7 @@
 // @include       *zomgupload.*/*
 // @include       *zshares.*/*
 // @icon          http://www.zevera.com/Images/Main.png
-// @version       11.7
+// @version       11.8
 // @copyright     Bit Torrentse , www.absba.org
 // ==/UserScript==
 
@@ -467,9 +461,6 @@ javascript = hf = location.hostname;
 if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 	coo = "sidc";
 	dom = ".0zz0.com";
-} else if (hf == "1000shared.com" || hf == "www.1000shared.com") {
-	coo = "xfss";
-	dom = ".1000shared.com";
 } else if (hf == "180upload.com" || hf == "www.180upload.com") {
 	coo = "xfss";
 	dom = ".180upload.com";
@@ -833,9 +824,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "filesabc.com" || hf == "www.filesabc.com") {
 	coo = "xfss";
 	dom = ".filesabc.com";
-} else if (hf == "filesaur.com" || hf == "www.filesaur.com") {
-	coo = "xfss";
-	dom = ".filesaur.com";
 } else if (hf == "filesbomb.in" || hf == "www.filesbomb.in") {
 	coo = "xfss";
 	dom = ".filesbomb.in";
@@ -851,9 +839,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "filesin.com" || hf == "www.filesin.com") {
 	coo = "XPZX56";
 	dom = ".filesin.com";
-} else if (hf == "filesswap.net" || hf == "www.filesswap.net") {
-	coo = "xfss";
-	dom = ".filesswap.net";
 } else if (hf == "filestream.me" || hf == "www.filestream.me") {
 	coo = "PHPSESSID";
 	dom = ".filestream.me";
@@ -1100,9 +1085,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "maskfile.com" || hf == "www.maskfile.com") {
 	coo = "xfss";
 	dom = ".maskfile.com";
-} else if (hf == "med1fire.net" || hf == "www.med1fire.net") {
-	coo = "xfss";
-	dom = ".med1fire.net";
 } else if (hf == "mediafire.bz" || hf == "www.mediafire.bz") {
 	coo = "xfss";
 	dom = ".mediafire.bz";
@@ -1274,9 +1256,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "purevid.com" || hf == "www.purevid.com") {
 	coo = "PHPSESSID";
 	dom = ".purevid.com";
-} else if (hf == "putlocker.co.in" || hf == "www.putlocker.co.in") {
-	coo = "xfss";
-	dom = ".putlocker.co.in";
 } else if (hf == "putlocker.ws" || hf == "www.putlocker.ws") {
 	coo = "auth";
 	dom = ".putlocker.ws";
@@ -1409,9 +1388,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "sharedir.com" || hf == "www.sharedir.com") {
 	coo = "PHPSESSID";
 	dom = ".sharedir.com";
-} else if (hf == "shareprofi.com" || hf == "www.shareprofi.com") {
-	coo = "xfss";
-	dom = ".shareprofi.com";
 } else if (hf == "sharerepo.com" || hf == "www.sharerepo.com") {
 	coo = "xfss";
 	dom = ".sharerepo.com";
@@ -1454,9 +1430,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "speedshare.eu" || hf == "www.speedshare.eu") {
 	coo = "xfss";
 	dom = ".speedshare.eu";
-} else if (hf == "speedy-share.com" || hf == "www.speedy-share.com") {
-	coo = "xfss";
-	dom = ".speedy-share.com";
 } else if (hf == "speedy.sh" || hf == "www.speedy.sh") {
 	coo = "S";
 	dom = ".speedy.sh";
@@ -1604,6 +1577,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "up.media1fire.com" || hf == "www.up.media1fire.com") {
 	coo = "xfss";
 	dom = ".up.media1fire.com";
+} else if (hf == "upafile.com" || hf == "www.upafile.com") {
+ 	coo = "xfss";
+ 	dom = ".upafile.com";
 } else if (hf == "upfile.mobi" || hf == "www.upfile.mobi") {
 	coo = "PHPSESSID";
 	dom = ".upfile.mobi";
@@ -1658,9 +1634,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "uploadspace.pl" || hf == "www.uploadspace.pl") {
 	coo = "auth";
 	dom = ".uploadspace.pl";
-} else if (hf == "uppit.com" || hf == "www.uppit.com") {
-	coo = "xfss";
-	dom = ".uppit.com";
 } else if (hf == "upshared.com" || hf == "www.upshared.com") {
 	coo = "xfss";
 	dom = ".upshared.com";
@@ -1721,6 +1694,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "vidspot.net" || hf == "www.vidspot.net") {
 	coo = "xfss";
 	dom = ".vidspot.net";
+} else if (hf == "vidstream.in" || hf == "www.vidstream.in") {
+ 	coo = "xfss";
+ 	dom = ".vidstream.in";
 } else if (hf == "vidto.me" || hf == "www.vidto.me") {
 	coo = "xfsts";
 	dom = ".vidto.me";
@@ -1739,9 +1715,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "vodlocker.com" || hf == "www.vodlocker.com") {
 	coo = "xfsts";
 	dom = ".vodlocker.com";
-} else if (hf == "vreer.com" || hf == "www.vreer.com") {
-	coo = "xfsts";
-	dom = ".vreer.com";
 } else if (hf == "vshare.eu" || hf == "www.vshare.eu") {
 	coo = "xfss";
 	dom = ".vshare.eu";
