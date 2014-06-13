@@ -1,4 +1,20 @@
 <h3>Changelog</h3>
+Jun 13, 2014<br>
+============<br>
+Add<br>
+www.upafile.com<br>
+www.vidstream.in<br>
+Remove<br>
+www.1000shared.com<br>
+www.filesaur.com<br>
+www.filesswap.net<br>
+www.med1fire.net<br>
+www.putlocker.co.in<br>
+www.shareprofi.com<br>
+www.speedy-share.com<br>
+www.uppit.com<br>
+www.vreer.com<br>
+<br>
 Jun 06, 2014<br>
 ============<br>
 Add<br>
