@@ -1,6 +1,7 @@
 <h3>Checking Remove</h3>
 ===========<br>
-Jun 06, 2014<br>
+Jun 13, 2014<br>
+www.1000shared.com<br>
 www.1clickfiles.com<br>
 www.4savefile.com<br>
 www.albafile.com<br>
@@ -17,28 +18,27 @@ www.dupload.org<br>
 www.embedload.com<br>
 www.extabit.com<br>
 www.filebigz.com<br>
-www.filechin.com<br>
 www.filecity.net<br>
-www.filedap.com<br>
 www.filehaste.com<br>
 www.fileomg.com<br>
 www.files2upload.net<br>
+www.filesaur.com<br>
 www.filesline.com<br>
+www.filesswap.net<br>
 www.foxishare.com<br>
 www.fsakura.com<br>
-www.fujifile.me<br>
 www.guizmodl.net<br>
 www.hellfile.com<br>
 www.hulkfile.eu<br>
-www.ifilez.co<br>
 www.mastcheck.com<br>
 www.maxisharing.com<br>
+www.med1fire.net<br>
 www.medofire.net<br>
 www.megarapid.eu<br>
 www.noovashare.com<br>
-www.orangefiles.me<br>
 www.oteupload.com<br>
 www.prefiles.com<br>
+www.putlocker.co.in<br>
 www.rapids.cz<br>
 www.rocketfile.net<br>
 www.senseless.tv<br>
@@ -46,18 +46,19 @@ www.share-credit.cz<br>
 www.share-rapid.com<br>
 www.share-rapid.cz<br>
 www.sharefiles.co<br>
+www.shareprofi.com<br>
 www.shrng.com<br>
 www.sinhro.net<br>
+www.speedy-share.com<br>
 www.srapid.cz<br>
 www.stahovaniezasms.sk<br>
 www.storagon.com<br>
-www.swatupload.com<br>
 www.temp-share.com<br>
-www.upafile.com<br>
 www.upfile.biz<br>
 www.uploadinc.com<br>
 www.uploads.ws<br>
+www.uppit.com<br>
 www.videoslasher.com<br>
-www.vidstream.in<br>
+www.vreer.com<br>
 www.wallobit.com<br>
 www.wooupload.com<br>
