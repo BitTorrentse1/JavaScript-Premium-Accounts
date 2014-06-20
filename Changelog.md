@@ -1,4 +1,20 @@
 <h3>Changelog</h3>
+Jun 20, 2014<br>
+Add<br>
+www.1000shared.com<br>
+www.abracadebrid.com<br>
+www.fileboom.me<br>
+www.filecloud.cc<br>
+www.filesaur.com<br>
+www.mastcheck.com<br>
+www.tb7.pl<br>
+www.upasias.com<br>
+www.uplea.com<br>
+www.wushare.com<br>
+Remove<br>
+www.imzupload.com<br>
+<br>
+============<br>
 Jun 13, 2014<br>
 ============<br>
 Add<br>
