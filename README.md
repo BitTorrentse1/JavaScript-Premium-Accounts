@@ -238,6 +238,8 @@ Support Sites المواقع المدعومة<br>
 <br>
 <a href="http://www.0zz0.com/index.php">
 <img src="http://www.0zz0.com/images2/0zz0.gif"></a><br>
+<a href="http://www.1000shared.com/">
+<img src="http://i.imgur.com/8EtXW.png"></a><br>
 <a href="http://www.180upload.com/">
 <img src="http://180upload.com/images/logo.gif"></a><br>
 <a href="http://www.180upload.nl/">
@@ -259,7 +261,9 @@ Support Sites المواقع المدعومة<br>
 <a href="http://7awel.com/">
 <img src="http://7awel.com/images/7awel_logo.png"></a><br>
 <a href="http://7rea.com/">
-<img src="(http://7rea.com/styles/default/images/logo.png"></a><br>
+<img src="http://7rea.com/styles/default/images/logo.png"></a><br>
+<a href="http://abracadebrid.com/">
+<img src="http://abracadebrid.com/images/logo.png"></a><br>
 <a href="http://acefile.net/">http://acefile.net/</a><br>
 <a href="http://www.adrive.com/">
 <img src="http://static.adrive.com/images/adrive-logo.png"></a><br>
@@ -412,8 +416,12 @@ Support Sites المواقع المدعومة<br>
 <a href="http://www.filearning.com/">
 <img src="http://www.filearning.com/logo.png"></a><br>
 <a href="http://www.fileband.com/">http://www.fileband.com</a><br>
+<a href="http://fileboom.me/">
+<img src="http://static1.fileboom.me/images/design/logo.png"></a><br>
 <a href="http://filebulk.com/">
 <img src="http://filebulk.com/images/filebulk/logo.png"></a><br>
+<a href="http://filecloud.cc/">
+<img src="http://filecloud.cc/images_classic/logo_new.png"></a><br>
 <a href="http://filecloud.io/">http://filecloud.io</a><br>
 <a href="http://filecore.co.nz/">
 <img src="http://filecore.co.nz/images/logo.png"></a><br>
@@ -462,6 +470,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://www.files123.net/images/stamp.png"></a><br>
 <a href="http://www.filesabc.com/">
 <img src="http://filesabc.com/images/logo.png"></a><br>
+<a href="http://filesaur.com/">
+<img src="http://filesaur.com/images/filesaur-logo.png"></a><br>
 <a href="http://filesaur.com/">
 <img src="http://filesaur.com/images/filesaur-logo.png"></a><br>
 <a href="http://www.filesbomb.in/">
@@ -573,8 +583,6 @@ Support Sites المواقع المدعومة<br>
 <img src="http://idup.in/images/logo.png"></a><br>
 <a href="https://imageshack.com/">
 <img src="https://imageshack.com/v2_images/auth/logo.png"></a><br>
-<a href="http://www.imzupload.com/">
-<img src="http://www.imzupload.com/images/logo.png"></a><br>
 <a href="http://inafile.com/">
 <img src="http://inafile.com/images/logo.png"></a><br>
 <a href="http://www.isavelink.com/?op=login">
@@ -627,6 +635,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://manyfy.com/assets/img/logo100.png"></a><br>
 <a href="http://www.maskfile.com/">
 <img src="http://www.maskfile.com/images_classic/logo.png"></a><br>
+<a href="http://www.mastcheck.com/">
+<img src="http://www.mastcheck.com/styles/default/images/logo.png"></a><br>
 <a href="http://mediafire.bz/?op=login">
 <img src="http://mediafire.bz/images/logo.png"></a><br>
 <a href="http://www.medlafire.org/">
@@ -690,7 +700,7 @@ Support Sites المواقع المدعومة<br>
 <a href="http://www.nexusmods.com/games/?">http://www.nexusmods.com/games/?</a><br>
 <a href="http://www.nopremium.pl/">
 <img src="https://www.nopremium.pl/images/logo.png"></a><br>
-<a href="http://nornar.com/">http://nornar.com/</a> 
+<a href="http://nornar.com/">http://nornar.com/</a><br>
 <a href="http://www.nosupload.com/">
 <img src="http://nosupload.com/nimages/logo.png"></a><br>
 <a href="http://www.nosvideo.com/">
@@ -859,6 +869,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://www.swankshare.com/images/logo.gif"></a><br>
 <a href="https://www.swissload.com/en/">
 <img src="https://www.swissload.com/img/logo.png"></a><br>
+<a href="http://tb7.pl/">
+<img src="http://tb7.pl/media/img/logo.png"></a><br>
 <a href="http://terafile.co/">
 <img src="http://terafile.co/images1/logo.png"></a><br>
 <a href="http://thefile.me/">
@@ -925,11 +937,15 @@ Support Sites المواقع المدعومة<br>
 <img src="http://up.media1fire.com/images/logo.png"></a><br>
 <a href="http://www.upafile.com/">
 <img src="http://upafile.com/images/logo.png"></a><br> 
+<a href="http://upasias.com/?op=login">
+<img src="http://upasias.com/images/pre/logo.jpg"></a><br> 
 <a href="http://www.up-55.com/">
 <img src="http://www.up-55.com/styles/default//images/logo.png"></a><br>
 <a href="http://upfile.mobi/">http://upfile.mobi/</a><br>
 <a href="http://upfile.vn/">
 <img src="http://upfile.vn/themes/blue_v2/images/main_logo.png"></a><br> 
+<a href="http://uplea.com/">
+<img src="http://uplea.com/img/logo-big.png"></a><br> 
 <a href="http://www.upload.ee/">
 <img src="data:image/png;base64,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"></a><br>
 <a href="http://upload.data.hu/index.php?isl=1">
@@ -1022,6 +1038,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://wipfiles.net/images/mylogo.png"></a><br>
 <a href="http://worldbytez.com/">
 <img src="http://worldbytez.com/images_megablue/logo_new.png"></a><br> 
+<a href="http://wushare.com/">
+<img src="http://wushare.com/img/wushare_logo.gif"></a><br> 
 <a href="http://www.wyslijto.pl/">
 <img src="http://www.wyslijto.pl/images/header_logo.gif"></a><br>
 <a href="http://xenubox.com/">
