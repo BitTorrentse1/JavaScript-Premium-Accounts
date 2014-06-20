@@ -1,7 +1,6 @@
 <h3>Checking Remove</h3>
 ===========<br>
-Jun 13, 2014<br>
-www.1000shared.com<br>
+Jun 20, 2014<br>
 www.1clickfiles.com<br>
 www.4savefile.com<br>
 www.albafile.com<br>
@@ -13,7 +12,6 @@ www.cloudzer.net<br>
 www.daj.to<br>
 www.davvas.com<br>
 www.donevideo.com<br>
-www.download.me<br>
 www.dupload.org<br>
 www.embedload.com<br>
 www.extabit.com<br>
@@ -22,7 +20,6 @@ www.filecity.net<br>
 www.filehaste.com<br>
 www.fileomg.com<br>
 www.files2upload.net<br>
-www.filesaur.com<br>
 www.filesline.com<br>
 www.filesswap.net<br>
 www.foxishare.com<br>
@@ -30,12 +27,11 @@ www.fsakura.com<br>
 www.guizmodl.net<br>
 www.hellfile.com<br>
 www.hulkfile.eu<br>
-www.mastcheck.com<br>
+www.imzupload.com<br>
 www.maxisharing.com<br>
 www.med1fire.net<br>
 www.medofire.net<br>
 www.megarapid.eu<br>
-www.noovashare.com<br>
 www.oteupload.com<br>
 www.prefiles.com<br>
 www.putlocker.co.in<br>
@@ -49,7 +45,6 @@ www.sharefiles.co<br>
 www.shareprofi.com<br>
 www.shrng.com<br>
 www.sinhro.net<br>
-www.speedy-share.com<br>
 www.srapid.cz<br>
 www.stahovaniezasms.sk<br>
 www.storagon.com<br>
