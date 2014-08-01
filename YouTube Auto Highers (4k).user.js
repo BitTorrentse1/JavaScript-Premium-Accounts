@@ -9,8 +9,11 @@
 // @supportURL    http://www.absba.org/member.php?u=37252
 // @updateURL     https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/YouTube%20Auto%20Highers%20(4k).meta.js
 // @downloadURL   https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/YouTube%20Auto%20Highers%20(4k).user.js
-// @include		  *youtube.*/*
-// @version		  1.2
+// @include        http://*.youtube.com/*
+// @include        http://youtube.com/*
+// @include        https://*.youtube.com/*
+// @include        https://youtube.com/*
+// @version		  1.3
 // @icon	      http://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_Youtube.svg
 // @run-at        document-start
 // @copyright     2014,  Bit Torrentse , www.absba.org
