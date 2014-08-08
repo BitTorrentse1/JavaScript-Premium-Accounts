@@ -104,6 +104,7 @@
 // @include       *file4safe.*/*
 // @include       *filearning.*/*
 // @include       *fileband.*/*
+// @include       *filebit.*/*
 // @include       *fileboom.*/*
 // @include       *filebulk.*/*
 // @include       *filecloud.*/*
@@ -149,7 +150,6 @@
 // @include       *flixaddict.*/*
 // @include       *flyfiles.*/*
 // @include       *fogload.*/*
-// @include       *forunesia.*/*
 // @include       *foxleech.*/*
 // @include       *foxpic.*/*
 // @include       *freakshare.*/*
@@ -184,8 +184,8 @@
 // @include       *hulkfile.*/*
 // @include       *hulkload.*/*
 // @include       *hyperfileshare.*/*
-// @include       *idup.*/*
 // @include       *imageshack.*/*
+// @include       *imzupload.*/*
 // @include       *inafile.*/*
 // @include       *isavelink.*/*
 // @include       *ishareupload.*/*
@@ -240,6 +240,7 @@
 // @include       *multiup.*/*
 // @include       *mydisc.*/*
 // @include       *mydownloader.*/*
+// @include       *myflare.*/*
 // @include       *myupload.*/*
 // @include       *myvdrive.*/*
 // @include       *nekaka.*/*
@@ -331,12 +332,12 @@
 // @include       *superdown.*/*
 // @include       *superlinksbr.*/*
 // @include       *superload.*/*
-// @include       *swankshare.*/*
 // @include       *swissload.*/*
 // @include       *tb7.*/*
 // @include       *terafile.*/*
 // @include       *thefile.*/*
 // @include       *thevideo.*/*
+// @include       *tigershare.*/*
 // @include       *toofile.*/*
 // @include       *torpedo.*/*
 // @include       *torrenting.*/*
@@ -357,6 +358,7 @@
 // @include       *uloz.*/*
 // @include       *ulozisko.*/*
 // @include       *ulozto.*/*
+// @include       *ultrafile.*/*
 // @include       *ultrashare.*/*
 // @include       *uncapped-downloads.*/*
 // @include       *unibytes.*/*
@@ -404,13 +406,13 @@
 // @include       *video.*/*
 // @include       *videobam.*/*
 // @include       *videobb.*/*
-// @include       *videowood.*/*
 // @include       *vidhog.*/*
 // @include       *vidplay.*/*
 // @include       *vidspot.*/*
 // @include       *vidstream.*/*
 // @include       *vidto.*/*
 // @include       *vidxden.*/*
+// @include       *vidzbeez.*/*
 // @include       *vidzi.*/*
 // @include       *vimeo.*/*
 // @include       *vodlocker.*/*
@@ -438,7 +440,7 @@
 // @include       *zinwa.*/*
 // @include       *zomgupload.*/*
 // @icon          http://www.zevera.com/Images/Main.png
-// @version       12.0
+// @version       12.1
 // @copyright     Bit Torrentse , www.absba.org
 // ==/UserScript==
 
@@ -750,6 +752,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "fileband.com" || hf == "www.fileband.com") {
 	coo = "xfss";
 	dom = ".fileband.com";
+} else if (hf == "filebit.pl" || hf == "www.filebit.pl") {
+	coo = "PHPSESSID";
+	dom = ".filebit.pl";
 } else if (hf == "fileboom.me" || hf == "www.fileboom.me") {
 	coo = "sessid";
 	dom = ".fileboom.me";
@@ -891,9 +896,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "fogload.com" || hf == "www.fogload.com") {
 	coo = "xfss";
 	dom = ".fogload.com";
-} else if (hf == "forunesia.com" || hf == "www.forunesia.com") {
-	coo = "xfss";
-	dom = ".forunesia.com";
 } else if (hf == "foxleech.com" || hf == "www.foxleech.com") {
 	coo = "me";
 	dom = ".foxleech.com";
@@ -1008,12 +1010,12 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "hyperfileshare.com" || hf == "www.hyperfileshare.com") {
 	coo = "sid";
 	dom = ".hyperfileshare.com";
-} else if (hf == "idup.in" || hf == "www.idup.in") {
-	coo = "xfss";
-	dom = ".idup.in";
 } else if (hf == "imageshack.com" || hf == "www.imageshack.com") {
 	coo = "myimages";
 	dom = ".imageshack.com";
+} else if  (hf == "imzupload.com" || hf == "www.imzupload.com") {
+	coo = "xfss";
+	dom = ".imzupload.com";
 } else if  (hf == "inafile.com" || hf == "www.inafile.com") {
 	coo = "xfss";
 	dom = ".inafile.com";
@@ -1179,6 +1181,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "mydownloader.net" || hf == "www.mydownloader.net") {
 	coo = "PHPSESSID";
 	dom = ".mydownloader.net";
+} else if (hf == "myflare.com" || hf == "www.myflare.com") {
+	coo = "x-cx-auth";
+	dom = ".myflare.com";
 } else if (hf == "myupload.dk" || hf == "www.myupload.dk") {
 	coo = "MYSLID";
 	dom = ".myupload.dk";
@@ -1317,7 +1322,7 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "redbunker.net" || hf == "www.redbunker.net") {
 	coo = "xfss";
 	dom = ".redbunker.net";
-} else if (hf == "remixshare.com" || hf == "www.remixshare.com" || hf == "s02.remixshare.com" || hf == "www.s02.remixshare.com" || hf == "s01.remixshare.com" || hf == "www.s01.remixshare.com") {
+} else if (hf == "remixshare.com" || hf == "www.remixshare.com" || hf == "s02.remixshare.com" || hf == "www.s02.remixshare.com") {
 	coo = "user_nickname";
 	dom = ".remixshare.com";
 } else if (hf == "restfile.ca" || hf == "www.restfile.ca") {
@@ -1467,9 +1472,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "superload.sk" || hf == "www.superload.sk") {
 	coo = "PHPSESSID";
 	dom = ".superload.sk";
-} else if (hf == "swankshare.com" || hf == "www.swankshare.com") {
-	coo = "xfss";
-	dom = ".swankshare.com";
 } else if (hf == "swissload.com" || hf == "www.swissload.com") {
 	coo = "session_id";
 	dom = ".swissload.com";
@@ -1485,6 +1487,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "thevideo.me" || hf == "www.thevideo.me") {
 	coo = "xfsts";
 	dom = ".thevideo.me";
+} else if (hf == "tigershare.net" || hf == "www.tigershare.net") {
+	coo = "xfss";
+	dom = ".tigershare.net";
 } else if (hf == "toofile.com" || hf == "www.toofile.com") {
 	coo = "xfss";
 	dom = ".toofile.com";
@@ -1548,6 +1553,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "ulozto.net" || hf == "www.ulozto.net") {
 	coo = "PHPSESSID";
 	dom = ".ulozto.net";
+} else if (hf == "ultrafile.me" || hf == "www.ultrafile.me") {
+	coo = "xfss";
+	dom = "www.ultrafile.me";
 } else if (hf == "ultrashare.net" || hf == "www.ultrashare.net") {
 	coo = "ultrashare_session";
 	dom = ".ultrashare.net";
@@ -1695,9 +1703,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "videobb.com" || hf == "www.videobb.com") {
 	coo = "P_sk";
 	dom = ".videobb.com";
-} else if (hf == "videowood.tv" || hf == "www.videowood.tv") {
-	coo = "videowood_sess";
-	dom = ".videowood.tv";
 } else if (hf == "vidhog.com" || hf == "www.vidhog.com") {
 	coo = "xfss";
 	dom = ".vidhog.com";
@@ -1716,6 +1721,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "vidxden.com" || hf == "www.vidxden.com") {
 	coo = "xfss";
 	dom = ".vidxden.com";
+} else if (hf == "vidzbeez.com" || hf == "www.vidzbeez.com") {
+	coo = "xfss";
+	dom = ".vidzbeez.com";
 } else if (hf == "vidzi.tv" || hf == "www.vidzi.tv") {
 	coo = "xfsts";
 	dom = ".vidzi.tv";
