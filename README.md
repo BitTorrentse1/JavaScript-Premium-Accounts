@@ -370,8 +370,6 @@ Support Sites المواقع المدعومة<br>
 <img src="http://downloadpremium.net/images/logo.png"></a><br>
 <a href="http://dropvideos.net/">
 <img src="http://tiger.dropvideos.net/images/header-logo.png"></a><br>
-<a href="http://www.duckload.co/">
-<img src="http://duckload.co/images/logo.gif"></a><br>
 <a href="http://www.easybytez.com/">
 <img src="http://support.easybytez.com/images/logo.gif"></a><br>
 <a href="http://www.edisk.cz/">www.edisk.cz</a><br>
@@ -411,6 +409,7 @@ Support Sites المواقع المدعومة<br>
 <a href="http://www.filearning.com/">
 <img src="http://www.filearning.com/logo.png"></a><br>
 <a href="http://www.fileband.com/">http://www.fileband.com</a><br>
+<a href="http://filebit.pl/">http://filebit.pl/</a><br>
 <a href="http://fileboom.me/">
 <img src="http://static1.fileboom.me/images/design/logo.png"></a><br>
 <a href="http://filebulk.com/">
@@ -493,8 +492,6 @@ Support Sites المواقع المدعومة<br>
 <img src="http://www.firecash.org/images/logo.png"></a><br>
 <a href="http://www.firedrive.com/myfiles">
 <img src="http://static.firedrive.com/images/fdcloud.svg"></a><br>
-<a href="http://www.firedrive.com/">
-<img src="http://static.firedrive.com/images/top_logo_large.png"></a> <br>
 <a href="http://www.fireget.com/">
 <img src="http://fireget.com/images/logo_site.gif"></a><br>
 <a href="http://www.firstload.com/?layout=13">
@@ -505,8 +502,6 @@ Support Sites المواقع المدعومة<br>
 <a href="http://www.flyfiles.net/">http://www.flyfiles.net/</a><br> 
 <a href="http://fogload.com/">
 <img src="http://fogload.com/images/logo.png"></a><br>
-<a href="http://www.forunesia.com/">
-<img src="http://www.forunesia.com/img/title.png"></a><br>
 <a href="http://www.foxleech.com/home">http://www.foxleech.com/home</a><br> 
 <a href="http://foxpic.com/">
 <img src="http://www.foxpic.com/styles/foxpic2/images/logo.png"></a><br>
@@ -570,10 +565,10 @@ Support Sites المواقع المدعومة<br>
 <img src="http://hulkload.com/images/logo.png"></a><br>
 <a href="http://www.hyperfileshare.com/">
 <img src="http://www.hyperfileshare.com/img/Logo1.gif"></a><br>
-<a href="http://idup.in/?op=login">
-<img src="http://idup.in/images/logo.png"></a><br>
 <a href="https://imageshack.com/">
 <img src="https://imageshack.com/v2_images/auth/logo.png"></a><br>
+<a href="http://www.imzupload.com/">
+<img src="http://www.imzupload.com/images/logo.png"></a><br>
 <a href="http://inafile.com/">
 <img src="http://inafile.com/images/logo.png"></a><br>
 <a href="http://www.isavelink.com/?op=login">
@@ -678,6 +673,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://mydisc.net/images/logo.png"></a><br>
 <a href="http://www.mydownloader.net/">
 <img src="http://www.mydownloader.net/img/logo.png"></a><br>
+<a href="https://www.myflare.com">
+<img src="https://www.myflare.com/images/logo.png"></a><br>
 <a href="http://www.myupload.dk/">
 <img src="http://www.myupload.dk/gfx/logo.png"></a><br>
 <a href="http://www.myvdrive.com/">
@@ -846,8 +843,6 @@ Support Sites المواقع المدعومة<br>
 <img src="http://superload.cz/img/cs/logo-superload.png"></a><br>
 <a href="http://superload.sk/">
 <img src="http://superload.sk/img/sk/logo-superload.png"></a><br>
-<a href="http://www.swankshare.com/">
-<img src="http://www.swankshare.com/images/logo.gif"></a><br>
 <a href="https://www.swissload.com/en/">
 <img src="https://www.swissload.com/img/logo.png"></a><br>
 <a href="http://tb7.pl/">
@@ -858,6 +853,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://thefile.me/img/logo.png"></a><br>
 <a href="http://www.thevideo.me/">
 <img src="http://www.thevideo.me/images/logo-b.png"></a><br>
+<a href="http://tigershare.net/">
+<img src="http://tigershare.net/images_classic/logo.png"></a><br>
 <a href="http://www.toofile.com/">
 <img src="http://www.toofile.com/images/logo_new.png"></a><br>
 <a href="http://torpedo.com.pl/">
@@ -900,6 +897,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://img5.uloz.to/ul3/images/logo.png"></a><br>
 <a href="http://ulozto.net/">
 <img src="http://img5.uloz.to/ul3/images/logo.png"></a><br>
+<a href="http://www.ultrafile.me/">
+<img src="http://ultrafile.me/images/toplogo.png"></a><br>
 <a href="http://www.ultrashare.net/">
 <img src="http://www.ultrashare.net/images/ultrashare.gif"></a><br>
 <a href="http://uncapped-downloads.com/">
@@ -988,8 +987,6 @@ Support Sites المواقع المدعومة<br>
 <img src="http://static1.videobam.com/images/logo.png"></a><br>
 <a href="http://www.videobb.com/">
 <img src="http://www.videobb.com/images/logo.jpg"></a><br>
-<a href="http://videowood.tv/">
-<img src="http://videowood.tv/assets/images/videowood_res.png"></a><br>
 <a href="http://www.vidhog.com/">
 <img src="http://www.vidhog.com/images/logo.png"></a><br>
 <a href="http://vidplay.net/">http://vidplay.net/</a><br> 
@@ -1001,6 +998,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://static.vidto.me/static/images/header-logo.png"></a><br> 
 <a href="http://www.vidxden.com/">
 <img src="http://www.vidxden.com/images/bg_02.jpg"></a><br>
+<a href="http://www.vidzbeez.com/">
+<img src="http://www.vidzbeez.com/images/logo_s.png"></a><br>
 <a href="http://vidzi.tv/">
 <img src="http://vidzi.tv/static/img/header-logo.png"></a><br>
 <a href="https://vimeo.com">https://vimeo.com</a><br> 
