@@ -1,5 +1,20 @@
 <h3>Changelog</h3>
 ============<br>
+Aug 08, 2014
+============<br>
+Add<br>
+www.filebit.pl<br>
+www.imzupload.com<br>
+www.myflare.com<br>
+www.tigershare.net<br>
+www.ultrafile.me<br>
+www.vidzbeez.com<br>
+Remove<br>
+www.forunesia.com<br>
+www.idup.in<br>
+www.s01.remixshare.com<br>
+www.videowood.tv<br>
+<br>
 Aug 02, 2014<br>
 ============<br>
 Add<br>
