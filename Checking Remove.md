@@ -1,6 +1,6 @@
 <h3>Checking Remove</h3>
 ===========<br>
-Aug 02, 2014<br>
+Aug 08, 2014<br>
 ===========<br>
 www.1clickfiles.com<br>
 www.4savefile.com<br>
@@ -34,7 +34,7 @@ www.grshare.com<br>
 www.guizmodl.net<br>
 www.hellfile.com<br>
 www.hipfile.com<br>
-www.imzupload.com<br>
+www.idup.in<br>
 www.maxisharing.com<br>
 www.med1fire.net<br>
 www.medofire.net<br>
@@ -46,10 +46,10 @@ www.rapids.cz<br>
 www.redload.net<br>
 www.senseless.tv<br>
 www.share-credit.cz<br>
-www.sharefiles.co<br>
-www.shareprofi.com<br>
 www.share-rapid.com<br>
 www.share-rapid.cz<br>
+www.sharefiles.co<br>
+www.shareprofi.com<br>
 www.shrng.com<br>
 www.shurrit.com<br>
 www.sinhro.net<br>
@@ -64,7 +64,6 @@ www.upfile.biz<br>
 www.uploadinc.com<br>
 www.uploads.ws<br>
 www.videoslasher.com<br>
-www.vidzbeez.com<br>
 www.vreer.com<br>
 www.wallobit.com<br>
 www.wooupload.com<br>
