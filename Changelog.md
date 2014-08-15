@@ -1,6 +1,26 @@
 <h3>Changelog</h3>
 ============<br>
-Aug 08, 2014
+Aug 15, 2014<br>
+============<br>
+Add<br>
+change @copyright @license  
+www.filesisland.com<br>
+www.idup.in<br>
+www.med1fire.net<br>
+www.nitroflare.com<br>
+www.top4top.net<br>
+www.vidbux.to<br>
+www.vidxden.to<br>
+www.xfileload.com<br>
+www.yourvideohost.com<br>
+Remove<br>
+www.101shared.com<br>
+www.2downloadz.com<br>
+www.fogload.com<br>
+www.megarapid.cz<br>
+www.up-55.com<br>
+<br>
+Aug 08, 2014<br>
 ============<br>
 Add<br>
 www.filebit.pl<br>
