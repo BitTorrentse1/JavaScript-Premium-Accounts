@@ -3,19 +3,16 @@
 // @namespace     https://github.com/BitTorrentse1
 // @homepage      https://github.com/BitTorrentse1
 // @author        Bit Torrentse
-// @license       Bit Torrentse , http://www.absba.org
+// @license       MIT
 // @description   To Activate The Premium Accounts
 // @details	  To Activate The Premium Accounts
-// @supportURL    http://www.absba.org/showthread.php?t=1335704
 // @updateURL     https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.meta.js
 // @downloadURL   https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/JavaScript%20Premium%20Accounts.user.js
 // @run-at        document-end
 // @include       *0zz0.*/*
-// @include       *101shared.*/*
 // @include       *180upload.*/*
 // @include       *1fichier.*/*
 // @include       *1st-files.*/*
-// @include       *2downloadz.*/*
 // @include       *2shared.*/*
 // @include       *4downfiles.*/*
 // @include       *4upfiles.*/*
@@ -137,6 +134,7 @@
 // @include       *filesfrog.*/*
 // @include       *fileshareup.*/*
 // @include       *filesin.*/*
+// @include       *filesisland.*/*
 // @include       *filestream.*/*
 // @include       *fileswap.*/*
 // @include       *filetram.*/*
@@ -149,7 +147,6 @@
 // @include       *flexydrive.*/*
 // @include       *flixaddict.*/*
 // @include       *flyfiles.*/*
-// @include       *fogload.*/*
 // @include       *foxleech.*/*
 // @include       *foxpic.*/*
 // @include       *freakshare.*/*
@@ -184,6 +181,7 @@
 // @include       *hulkfile.*/*
 // @include       *hulkload.*/*
 // @include       *hyperfileshare.*/*
+// @include       *idup.*/*
 // @include       *imageshack.*/*
 // @include       *imzupload.*/*
 // @include       *inafile.*/*
@@ -211,13 +209,13 @@
 // @include       *mafiastorage.*/*
 // @include       *manyfy.*/*
 // @include       *maskfile.*/*
+// @include       *med1fire.*/*
 // @include       *mediafire.*/*
 // @include       *medlafire.*/*
 // @include       *mega-debrid.*/*
 // @include       *megacache.*/*
 // @include       *megafiles.*/*
 // @include       *megairon.*/*
-// @include       *megarapid.*/*
 // @include       *megarapido.*/*
 // @include       *megashares.*/*
 // @include       *megauplaod.*/*
@@ -247,6 +245,7 @@
 // @include       *netkups.*/*
 // @include       *netload.*/*
 // @include       *nexusmods.*/*
+// @include       *nitroflare.*/*
 // @include       *nopremium.*/*
 // @include       *nornar.*/*
 // @include       *nosupload.*/*
@@ -364,10 +363,10 @@
 // @include       *unibytes.*/*
 // @include       *unlimitzone.*/*
 // @include       *unrestrict.*/*
-// @include       *up-55.*/*
 // @include       *up.badr4soft.*/*
 // @include       *up.dev-point.*/*
 // @include       *up.media1fire.*/*
+// @include       *up.top4top.*/*
 // @include       *upafile.*/*
 // @include       *upasias.*/*
 // @include       *upfile.*/*
@@ -428,8 +427,10 @@
 // @include       *xdisk.*/*
 // @include       *xenubox.*/*
 // @include       *xerver.*/*
+// @include       *xfileload.*/*
 // @include       *xfilesharing.*/*
 // @include       *xvidstage.*/*
+// @include       *yourvideohost.*/*
 // @include       *youwatch.*/*
 // @include       *zachowajto.*/*
 // @include       *zalaa.*/*
@@ -440,8 +441,8 @@
 // @include       *zinwa.*/*
 // @include       *zomgupload.*/*
 // @icon          http://www.zevera.com/Images/Main.png
-// @version       12.1
-// @copyright     Bit Torrentse , www.absba.org
+// @version       12.2
+// @copyright     2012+, Bit Torrentse (http://www.absba.org)
 // ==/UserScript==
 
 /*=====================================================
@@ -464,9 +465,6 @@ javascript = hf = location.hostname;
 if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 	coo = "sidc";
 	dom = ".0zz0.com";
-} else if (hf == "101shared.com" || hf == "www.101shared.com") {
- 	coo = "xfss";
- 	dom = ".101shared.com";
 } else if (hf == "180upload.com" || hf == "www.180upload.com") {
 	coo = "xfss";
 	dom = ".180upload.com";
@@ -479,9 +477,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "1st-files.com" || hf == "www.1st-files.com") {
 	coo = "xfss";
 	dom = ".1st-files.com";
-} else if (hf == "2downloadz.com" || hf == "www.2downloadz.com") {
-	coo = "Sss_id";
-	dom = ".2downloadz.com";
 } else if (hf == "2shared.com" || hf == "www.2shared.com") {
 	coo = "JSESSIONID";
 	dom = ".2shared.com";
@@ -857,6 +852,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "filesin.com" || hf == "www.filesin.com") {
 	coo = "XPZX56";
 	dom = ".filesin.com";
+} else if (hf == "filesisland.com" || hf == "www.filesisland.com") {
+	coo = "xfss";
+	dom = ".filesisland.com";
 } else if (hf == "filestream.me" || hf == "www.filestream.me") {
 	coo = "PHPSESSID";
 	dom = ".filestream.me";
@@ -893,9 +891,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "flyfiles.net" || hf == "www.flyfiles.net") {
 	coo = "SESSID";
 	dom = ".flyfiles.net";
-} else if (hf == "fogload.com" || hf == "www.fogload.com") {
-	coo = "xfss";
-	dom = ".fogload.com";
 } else if (hf == "foxleech.com" || hf == "www.foxleech.com") {
 	coo = "me";
 	dom = ".foxleech.com";
@@ -1010,6 +1005,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "hyperfileshare.com" || hf == "www.hyperfileshare.com") {
 	coo = "sid";
 	dom = ".hyperfileshare.com";
+} else if (hf == "idup.in" || hf == "www.idup.in") {
+	coo = "xfss";
+	dom = ".idup.in";
 } else if (hf == "imageshack.com" || hf == "www.imageshack.com") {
 	coo = "myimages";
 	dom = ".imageshack.com";
@@ -1094,6 +1092,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "maskfile.com" || hf == "www.maskfile.com") {
 	coo = "xfss";
 	dom = ".maskfile.com";
+} else if (hf == "med1fire.net" || hf == "www.med1fire.net") {
+	coo = "xfss";
+	dom = ".med1fire.net";
 } else if (hf == "mediafire.bz" || hf == "www.mediafire.bz") {
 	coo = "xfss";
 	dom = ".mediafire.bz";
@@ -1112,9 +1113,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "megairon.net" || hf == "www.megairon.net") {
 	coo = "xfss";
 	dom = ".megairon.net";
-} else if (hf == "megarapid.cz" || hf == "www.megarapid.cz") {
-	coo = "PHPSESSID";
-	dom = ".megarapid.cz";
 } else if (hf == "megarapido.net" || hf == "www.megarapido.net") {
 	coo = "PHPSESSID";
 	dom = ".megarapido.net";
@@ -1202,6 +1200,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "nexusmods.com" || hf == "www.nexusmods.com") {
 	coo = "sid";
 	dom = ".nexusmods.com";
+} else if (hf == "nitroflare.com" || hf == "www.nitroflare.com") {
+	coo = "user";
+	dom = ".nitroflare.com";
 } else if (hf == "nopremium.pl" || hf == "www.nopremium.pl") {
 	coo = "NPSESSID";
 	dom = ".nopremium.pl";
@@ -1571,9 +1572,6 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "unrestrict.li" || hf == "www.unrestrict.li") {
 	coo = "unrestrict_user";
 	dom = ".unrestrict.li";
-} else if (hf == "up-55.com" || hf == "www.up-55.com") {
-	coo = "klj_otrq6_ulogu";
-	dom = ".up-55.com";
 } else if (hf == "up.badr4soft.com" || hf == "www.up.badr4soft.com") {
 	coo = "xfss";
 	dom = ".up.badr4soft.com";
@@ -1583,6 +1581,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "up.media1fire.com" || hf == "www.up.media1fire.com") {
 	coo = "xfss";
 	dom = ".up.media1fire.com";
+} else if (hf == "up.top4top.net" || hf == "www.top4top.net") {
+	coo = "klj_40d146_ulogu";
+	dom = "www.uptop4top.net";
 } else if (hf == "upafile.com" || hf == "www.upafile.com") {
  	coo = "xfss";
  	dom = ".upafile.com";
@@ -1694,6 +1695,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "vidbux.com" || hf == "www.vidbux.com") {
 	coo = "xfss";
 	dom = ".vidbux.com";
+} else if (hf == "vidbux.to" || hf == "www.vidbux.to") {
+	coo = "xfss";
+	dom = ".vidbux.to";
 } else if (hf == "video.tt" || hf == "www.video.tt") {
 	coo = "PHPSESSID";
 	dom = ".video.tt";
@@ -1721,6 +1725,9 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "vidxden.com" || hf == "www.vidxden.com") {
 	coo = "xfss";
 	dom = ".vidxden.com";
+} else if (hf == "vidxden.to" || hf == "www.vidxden.to") {
+	coo = "xfss";
+	dom = ".vidxden.to";
 } else if (hf == "vidzbeez.com" || hf == "www.vidzbeez.com") {
 	coo = "xfss";
 	dom = ".vidzbeez.com";
@@ -1772,12 +1779,18 @@ if (hf == "0zz0.com" || hf == "www.0zz0.com") {
 } else if (hf == "xerver.co" || hf == "www.xerver.co") {
 	coo = "xfss";
 	dom = ".xerver.co";
+} else if (hf == "xfileload.com" || hf == "www.xfileload.com") {
+	coo = "xfss";
+	dom = ".xfileload.com";
 } else if (hf == "xfilesharing.com" || hf == "www.xfilesharing.com") {
 	coo = "xfss";
 	dom = ".xfilesharing.com";
 } else if (hf == "xvidstage.com" || hf == "www.xvidstage.com") {
 	coo = "xfss";
 	dom = ".xvidstage.com";
+} else if (hf == "yourvideohost.com" || hf == "www.yourvideohost.com") {
+	coo = "xfsts";
+	dom = ".yourvideohost.com";
 } else if (hf == "youwatch.org" || hf == "www.youwatch.org") {
 	coo = "xfsts";
 	dom = ".youwatch.org";
