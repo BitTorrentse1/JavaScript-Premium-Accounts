@@ -1,22 +1,21 @@
 // ==UserScript==
-// @name      	  YouTube Auto Highers (4k)
+// @name          YouTube Auto Highers (4k)
 // @description   Make Play Video Auto Highers
-// @details	      Make Play Video Auto Highers
+// @details       Make Play Video Auto Highers
 // @author        Bit Torrentse
-// @license       Bit Torrentse , http://www.absba.org
+// @license       MIT
 // @namespace     https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
 // @homepage      https://github.com/BitTorrentse1/JavaScript-Premium-Accounts
-// @supportURL    http://www.absba.org/member.php?u=37252
 // @updateURL     https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/YouTube%20Auto%20Highers%20(4k).meta.js
 // @downloadURL   https://raw.githubusercontent.com/BitTorrentse1/JavaScript-Premium-Accounts/master/YouTube%20Auto%20Highers%20(4k).user.js
-// @include        http://*.youtube.com/*
-// @include        http://youtube.com/*
-// @include        https://*.youtube.com/*
-// @include        https://youtube.com/*
-// @version		  1.3
-// @icon	      http://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_Youtube.svg
+// @include       http://*.youtube.com/*
+// @include       http://youtube.com/*
+// @include       https://*.youtube.com/*
+// @include       https://youtube.com/*
+// @version       1.4
+// @icon          http://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_Youtube.svg
 // @run-at        document-start
-// @copyright     2014,  Bit Torrentse , www.absba.org
+// @copyright     2014+, Bit Torrentse (http://www.absba.org)
 // ==/UserScript==
 var customQuality = true;
 var quality = "highres";
