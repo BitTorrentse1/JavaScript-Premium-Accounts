@@ -238,8 +238,6 @@ Support Sites المواقع المدعومة<br>
 <br>
 <a href="http://www.0zz0.com/index.php">
 <img src="http://www.0zz0.com/images2/0zz0.gif"></a><br>
-<a href="http://www.101shared.com/">
-<img src="http://i.imgur.com/8EtXW.png"></a><br>
 <a href="http://www.180upload.com/">
 <img src="http://180upload.com/images/logo.gif"></a><br>
 <a href="http://www.180upload.nl/">
@@ -248,8 +246,6 @@ Support Sites المواقع المدعومة<br>
 <img src="http://img.1fichier.com/img/logo4.png"></a><br>
 <a href="http://www.1st-files.com/">
 <img src="http://www.1st-files.com/images/logo.png"></a><br>
-<a href="http://www.2downloadz.com/">
-<img src="http://www.2downloadz.com/images/logo-main.png"></a><br>
 <a href="http://www.2shared.com/">
 <img src="http://www.2shared.com/images/logo.gif"></a><br>
 <a href="http://4downfiles.com/">
@@ -475,6 +471,7 @@ Support Sites المواقع المدعومة<br>
 <img src="http://www.fileshareup.com/themes/blue_v2/images/main_logo.jpg"></a><br>
 <a href="http://www.filesin.com/">
 <img src="http://www.filesin.com/images/filesin_logo.png"></a><br> 
+<a href="http://filesisland.com/">http://filesisland.com//</a><br>
 <a href="https://www.filestream.me/">https://www.filestream.me/</a><br>
 <a href="http://www.fileswap.com/">
 <img src="http://www.fileswap.com/_images/logo/fileswap_large.png"></a><br>
@@ -500,8 +497,6 @@ Support Sites المواقع المدعومة<br>
 <a href="https://www.flixaddict.com">
 <img src="https://d1pemiecpk0y8o.cloudfront.net/flixaddict/images/front/sprites.png"></a><br>
 <a href="http://www.flyfiles.net/">http://www.flyfiles.net/</a><br> 
-<a href="http://fogload.com/">
-<img src="http://fogload.com/images/logo.png"></a><br>
 <a href="http://www.foxleech.com/home">http://www.foxleech.com/home</a><br> 
 <a href="http://foxpic.com/">
 <img src="http://www.foxpic.com/styles/foxpic2/images/logo.png"></a><br>
@@ -565,6 +560,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://hulkload.com/images/logo.png"></a><br>
 <a href="http://www.hyperfileshare.com/">
 <img src="http://www.hyperfileshare.com/img/Logo1.gif"></a><br>
+<a href="http://www.idup.in/">
+<img src="http://idup.in/images/logo.png"></a><br>
 <a href="https://imageshack.com/">
 <img src="https://imageshack.com/v2_images/auth/logo.png"></a><br>
 <a href="http://www.imzupload.com/">
@@ -621,6 +618,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://manyfy.com/assets/img/logo100.png"></a><br>
 <a href="http://www.maskfile.com/">
 <img src="http://www.maskfile.com/images_classic/logo.png"></a><br>
+<a href="http://www.med1fire.net/">
+<img src="http://med1fire.net/images/logo.png"></a><br>
 <a href="http://mediafire.bz/?op=login">
 <img src="http://mediafire.bz/images/logo.png"></a><br>
 <a href="http://www.medlafire.org/">
@@ -629,7 +628,6 @@ Support Sites المواقع المدعومة<br>
 <img src="http://megacache.net/images/logo-new.jpg"></a><br>
 <a href="http://www.mega-debrid.eu/">
 <img src="http://www.mega-debrid.eu/images/publicHome/logo.png"></a><br> 
-<a href="http://megarapid.cz/">http://megarapid.cz/</a><br>
 <a href="http://megarapido.net/">
 <img src="http://megarapido.net/images/logo.png"></a><br>
 <a href="http://www.megafiles.se/">
@@ -685,6 +683,7 @@ Support Sites المواقع المدعومة<br>
 <img src="http://netkups.com/static/logo.png"></a><br>
 <a href="http://www.netload.in/">http://www.netload.in/</a><br>
 <a href="http://www.nexusmods.com/games/?">http://www.nexusmods.com/games/?</a><br>
+<a href="http://www.nitroflare.com/">http://www.nitroflare.com/</a><br>
 <a href="http://www.nopremium.pl/">
 <img src="https://www.nopremium.pl/images/logo.png"></a><br>
 <a href="http://nornar.com/">
@@ -915,12 +914,12 @@ Support Sites المواقع المدعومة<br>
 <img src="http://up.dev-point.com/styles/devpoint/images/logo.png"></a><br>
 <a href="http://up.media1fire.com/">
 <img src="http://up.media1fire.com/images/logo.png"></a><br>
+<a href="http://up.top4top.net/">
+<img src="http://s.top4top.net/styles/default-new-reg/images/logo.png"></a><br>
 <a href="http://www.upafile.com/">
 <img src="http://upafile.com/images/logo.png"></a><br> 
 <a href="http://upasias.com/?op=login">
 <img src="http://upasias.com/images/pre/logo.jpg"></a><br> 
-<a href="http://www.up-55.com/">
-<img src="http://www.up-55.com/styles/default//images/logo.png"></a><br>
 <a href="http://upfile.mobi/">http://upfile.mobi/</a><br>
 <a href="http://upfile.vn/">http://upfile.vn/</a><br> 
 <a href="http://uplea.com/">
@@ -982,6 +981,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://vidbull.com/images/logo.jpg"></a><br>
 <a href="http://www.vidbux.com/">
 <img src="http://www.vidbux.com/images/vid_bux_logo_small.png"></a><br>
+<a href="http://vidbux.to/">
+<img src="http://vidbux.to/images/vid_bux_logo_small.png"></a><br>
 <a href="http://www.video.tt/">http://www.video.tt/</a><br> 
 <a href="http://videobam.com/">
 <img src="http://static1.videobam.com/images/logo.png"></a><br>
@@ -998,6 +999,8 @@ Support Sites المواقع المدعومة<br>
 <img src="http://static.vidto.me/static/images/header-logo.png"></a><br> 
 <a href="http://www.vidxden.com/">
 <img src="http://www.vidxden.com/images/bg_02.jpg"></a><br>
+<a href="http://www.vidxden.to/">
+<img src="http://www.vidxden.to/images/bg_02.jpg"></a><br>
 <a href="http://www.vidzbeez.com/">
 <img src="http://www.vidzbeez.com/images/logo_s.png"></a><br>
 <a href="http://vidzi.tv/">
@@ -1029,10 +1032,14 @@ Support Sites المواقع المدعومة<br>
 <img src="http://xenubox.com/images/layout/logo.png"></a><br>
 <a href="http://xerver.co/">
 <img src="http://xerver.co/images/logo-x-2.png"></a><br>
+<a href="http://xfileload.com/">
+<img src="http://xfileload.com/images/logo-cs.png"></a><br>
 <a href="http://www.xfilesharing.com/">
 <img src="http://xfilesharing.com/images/logo.png"></a><br> 
 <a href="http://www.xvidstage.com/">
 <img src="http://xvidstage.com/images/logo.jpg"></a><br>
+<a href="http://yourvideohost.com/">
+<img src="http://yourvideohost.com/img/logo.png"></a><br>
 <a href="http://www.youwatch.org/">
 <img src="http://youwatch.org/images2/logo.png"></a><br> 
 <a href="http://www.zachowajto.pl/">
